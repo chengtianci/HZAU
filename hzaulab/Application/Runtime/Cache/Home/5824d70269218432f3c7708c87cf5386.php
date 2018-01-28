@@ -185,6 +185,13 @@
         <section class="article">
           <div class="planform_box">
             <header class="main_title"><h2>露天盆栽场</h2></header>
+            <div class="clr"></div>
+
+            <ul class="small_nav">
+              <li><a class="now_on" href="/hzau/hzaulab/index.php/Home/Field/field_show2">山南露天盆栽场</a></li>
+              <li><a href="/hzau/hzaulab/index.php/Home/Field/field_show2_two">山北露天盆栽场</a></li>
+            </ul>
+            <div class="clr"></div>
             <div class="planform">
               <div class="planheader">
                 <form action="/hzau/hzaulab/index.php/Home/Search/searchOneday" method="post">
@@ -204,64 +211,7 @@
             </div>
               </div>
               <div class="planbody">
-                <form>
-                  <input type="button" name="" id="muticonfirm" value="预约" onclick="fun()">
-                  <div class="box1"><!-- <div  data-toggle="modal" data-target="#myModal" class="gallery_add">ADD</div> -->
-                  <div class="inbox"  id="PZ-1" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-1" name="test">PZ-1<span class="date">2017.8.10</span></div>
-                  <div class="inbox " id="PZ-2" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-2" name="test">PZ-2<span class="date"></span></div>
-                  <div class="inbox" id="PZ-3" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-3" name="test">PZ-3<span class="date">2017.8.10</span></div>
-                  <div class="inbox" id="PZ-4" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-4" name="test">PZ-4<span class="date"></span></div>
-                  <div class="inbox" id="PZ-5" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-5" name="test">PZ-5<span class="date"></span></div>
-                  <div class="inbox" id="PZ-6" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-6" name="test">PZ-6<span class="date"></span></div>
-                  <div class="inbox" id="PZ-7" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-7" name="test">PZ-7<span class="date"></span></div>
-                  <div class="inbox" id="PZ-8" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-8" name="test">PZ-8<span class="date"></span></div>
-                  <div class="inbox" id="PZ-9" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-9" name="test">PZ-9<span class="date"></span></div>
-                  <div class="inbox" id="PZ-10" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-10" name="test">PZ-10<span class="date"></span></div>
-                  <div class="inbox" id="PZ-11" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-11" name="test">PZ-11<span class="date"></span></div>
-                  <div class="inbox" id="PZ-12" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-12" name="test">PZ-12<span class="date"></span></div>
-                  <div class="inbox" id="PZ-13" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-13" name="test">PZ-13<span class="date"></span></div>
-                  <div class="inbox" id="PZ-14" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-14" name="test">PZ-14<span class="date"></span></div>
-                  <div class="inbox" id="PZ-15" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-15" name="test">PZ-15<span class="date"></span></div>
-                  <div class="inbox" id="PZ-16" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-16" name="test">PZ-16<span class="date"></span></div>
-                  <div class="inbox" id="PZ-17" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-17" name="test">PZ-17<span class="date"></span></div>
-                  <div class="inbox" id="PZ-18" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-18" name="test">PZ-18<span class="date"></span></div>
-                  <div class="inbox" id="PZ-19" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-19" name="test">PZ-19<span class="date"></span></div>
-                  <div class="inbox" id="PZ-20" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-20" name="test">PZ-20<span class="date"></span></div>
-                  <div class="inbox" id="PZ-21" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-21" name="test">PZ-21<span class="date"></span></div>
-                  <div class="inbox" id="PZ-22" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-22" name="test">PZ-22<span class="date"></span></div>
-                  <div class="inbox" id="PZ-23" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-23" name="test">PZ-23<span class="date"></span></div>
-                </div>
-
-
-                <div class="box2">
-                  <div class="inbox" id="PZ-24" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-24" name="test">PZ-24<span class="date"></span></div>
-                  <div class="inbox" id="PZ-25" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-25" name="test">PZ-25<span class="date"></span></div>
-                  <div class="inbox" id="PZ-26" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-26" name="test">PZ-26<span class="date"></span></div>
-                  <div class="inbox" id="PZ-27" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-27" name="test">PZ-27<span class="date"></span></div>
-                  <div class="inbox" id="PZ-28" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-28" name="test">PZ-28<span class="date"></span></div>
-                  <div class="inbox" id="PZ-29" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-29" name="test">PZ-29<span class="date"></span></div>
-                  <div class="inbox" id="PZ-30" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-30" name="test">PZ-30<span class="date"></span></div>
-                </div>
-
-
-                <div class="box3">
-                  <div class="boxrow">
-                       <div class="inbox2" id="PZ-31" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-31" name="test">PZ-31<span class="date"></span></div>
-                       <div class="inbox2" id="PZ-32" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-32" name="test">PZ-32<span class="date"></span></div>
-                  </div>
-                  <div class="boxrow">
-                       <div class="inbox2" id="PZ-33" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-33" name="test">PZ-33<span class="date"></span></div>
-                       <div class="inbox2" id="PZ-34" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-34" name="test">PZ-34<span class="date"></span></div>
-                  </div>
-                </div>
-                <div class="box4">
-                  <div class="boxrow">
-                       <div class="inbox2" id="PZ-35" name="openPot" title="状态：开放/锁定/占用/已预约(本人)；时间：8-15"><br><input type="checkbox" value="PZ-35" name="test">PZ-35<span class="date"></span></div>
-                  </div>
-                </div>
-                </form>
-
-
+              
                 <div id="applyform">
                   <div class="up">
                   <img id="close" src="/hzau/hzaulab/Public/face/images/close.png">

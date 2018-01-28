@@ -1,0 +1,6 @@
+[ 2018-01-28T15:15:26+08:00 ] ::1 /hzau/hzaulab/index.php/admin/Field/field_show2_two
+ERR: 非法操作:field_show2_two
+
+[ 2018-01-28T15:15:31+08:00 ] ::1 /hzau/hzaulab/index.php/admin/Field/
+ERR: 模板不存在:./Application/Admin/View/Field/index.html
+

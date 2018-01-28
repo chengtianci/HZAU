@@ -1,0 +1,100 @@
+[ 2018-01-28T14:49:00+08:00 ] ::1 /hzau/hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002911s ]
+
+[ 2018-01-28T14:49:00+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+
+[ 2018-01-28T14:49:06+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/introduction/introduction
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2018-01-28T14:49:06+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+
+[ 2018-01-28T14:49:08+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/introduction/introduction
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+
+[ 2018-01-28T14:49:08+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+
+[ 2018-01-28T14:49:09+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/introduction/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2018-01-28T14:49:10+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+
+[ 2018-01-28T14:49:11+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/introduction/connect
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+
+[ 2018-01-28T14:49:11+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2018-01-28T14:49:13+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/introduction/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2018-01-28T14:49:13+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+
+[ 2018-01-28T14:49:16+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/introduction/introduction
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.121590s ]
+
+[ 2018-01-28T14:49:16+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+
+[ 2018-01-28T14:49:18+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/source/source
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+
+[ 2018-01-28T14:49:18+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+
+[ 2018-01-28T14:49:23+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/comp/comp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002897s ]
+
+[ 2018-01-28T14:49:23+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2018-01-28T14:49:29+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/source/pic_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001479s ]
+INFO: [ app_init ] --END-- [ RunTime:0.090448s ]
+
+[ 2018-01-28T14:49:29+08:00 ] ::1 /hzau/hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001783s ]
+

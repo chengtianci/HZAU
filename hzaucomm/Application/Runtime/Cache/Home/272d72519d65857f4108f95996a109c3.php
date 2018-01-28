@@ -2,14 +2,13 @@
 <html>
 <head>
 	<meta charset="UTF-8">
+ 	<meta name="viewport" content="width=device-width,user-scalable=yes" />
  	<title>实验教学中心互动平台</title>
-	<link rel="stylesheet" href="/hzau/hzaucomm/Public/face/css/public.css"/>
-	<link rel="stylesheet" href="/hzau/hzaucomm/Public/face/css/main.css"/>
 	<link rel="shortcut icon" href="/hzau/hzaucomm/logo.ico">
-	<meta name="viewport" content="width=device-width,user-scalable=yes" />
-	<link type="text/css" rel="stylesheet" href='http://fonts.googleapis.com/css?family=Ubuntu:300italic,300,700' />
-	<link type="text/css" rel="stylesheet" href="/hzau/hzaucomm/Public/face/css/bootstrap.css" />
+ 		<link type="text/css" rel="stylesheet" href="/hzau/hzaucomm/Public/face/css/bootstrap.css" />
 	<link type="text/css" rel="stylesheet" href="/hzau/hzaucomm/Public/face/css/flexslider.css" />
+	<link rel="stylesheet" href="/hzau/hzaucomm/Public/face/css/public.css"/>
+	<link rel="stylesheet" href="/hzau/hzaucomm/Public/face/css/summary.css"/>
 </head>
 <body>
 	<div id="Cheader">
@@ -165,111 +164,31 @@
 
 	<div id="Cmain">
 		<div class="Ccontainer">
-			<div id="Cright">
-				<div id="cr_p">
-					<div class="container">
-						<section >
-							<div class="flexslider">
-							  <ul class="slides">
-								  <?php if(is_array($imagics)): $i = 0; $__LIST__ = $imagics;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$items): $mod = ($i % 2 );++$i;?><li>
-										  <a href="/hzau/hzaucomm/index.php/Home/course/course.html?"><img src="/hzau/hzaucomm/Uploads/<?php echo ($items["imgadd"]); ?>" alt="" /></a>
-										  <div style="position: absolute; top:75px; left:45px; width:70%; height:150px;">
-											  <div class="slide_content_left"><h2><?php echo ($items["imgname"]); ?></h2></div>
-											  <!-- <div class="slide_desc_right">Hamburg, Germany</div> -->
-										  </div>
-									  </li><?php endforeach; endif; else: echo "" ;endif; ?>
-							  </ul>
-						  </div>
-						</section>
-					</div>
-				</div>
-				<div class="minihead">
-				<h3 class="m_h_title"><a>热门主题</a></h3>
-				</div>
-				<div id="hot_theme">
-					<div class="h_t_show">
-						<ul>
-							<?php if(is_array($hotThemes)): $i = 0; $__LIST__ = $hotThemes;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li class="h_t_show_ex">
-									<div class="h_t_s_ex_tit"><a href="/hzau/hzaucomm/index.php/Home/Index/showitem/id/<?php echo ($vo["id"]); ?>"><?php echo ($vo["msname"]); ?></a></div>
-									<div class="htexnav">
-										<span class="htexnav_time"><img src="/hzau/hzaucomm/Public/face/images/icon/time.png"><?php echo ($vo["msdate"]); ?></span>
-										<span class="htexnav_pub"><img src="/hzau/hzaucomm/Public/face/images/icon/person.png"><?php echo ($vo["msowner"]); ?></span>
-										<span class="htexnav_com"><img src="/hzau/hzaucomm/Public/face/images/icon/comment.png"><?php echo ($vo["mshaving"]); ?>评论</span>
-										<span class="htexnav_prise"><img src="/hzau/hzaucomm/Public/face/images/icon/prise.png"><?php echo ($vo["mslike"]); ?></span>
-									</div>
-									<div class="htexdetail">
-										<?php $vo['msct'] = preg_replace('/<([a-z]+?)\s+?.*?>/i','<$1>',$vo['msct']); $qian=array(" ","　","\t","\n","\r"); $hou=array("","","","",""); $vo['msct'] = str_replace($qian,$hou,$vo['msct']); $vo['msct'] = strip_tags($vo['msct']); ?>
-										<p class="htexd_c">
-											<?php echo ($vo["msct"]); ?>
-											<!--五月，携一缕浅夏的芬芳，凝一脂冰清玉洁的清梦，连同五月特有-->
-											<!--的浓郁，悠然地坐在暮春的肩头，温暖的阳光洒进心扉，激荡着心-->
-											<!--灵深处的温馨诗行。五月的鲜花散发着芬香妖娆而美丽，鲜花盛开-->
-											<!--让人们尽情的沐浴在温暖的阳光下，尽情的享受着花海带来的快乐-->
-											<!--和温馨。紫粉色的梧桐花娇艳地吹开五月的喇叭，把五月的激情浪-->
-											<!--漫浓重地渲染;润白的槐花把五月的故事一串串地高挂在嫩绿的枝头-->
-											<!--，用淡雅的色调修饰五月素洁的衣襟。无论是朝暮里温婉柔美的波-->
-											<!--幔透出的悠远宁静，还是在艳阳下闪亮水花里飞溅的激情，都是那-->
-											<!--么令人飘然而超脱。-->
-
-											<!--浪漫的五月总能营造出绚丽多姿的色彩，总能姿意-->
-											<!--出淡雅清新的情愫。五月风，越过高山的坎坎坷坷，拂去了岁月的-->
-											<!--尘埃，五月的风，如诗人的笔，如画家的五彩，将-->
-											<!--绿色覆盖每一片荒凉，让大地换上了新装。五月风，洋溢着笑脸，-->
-											<!--灿烂着每一朵花儿，用希望的手叩响了沉睡的天空-->
-											<!--，吹散了糜烂，吹走了腐味，带来了清晰。五月风，轻轻地从耳边-->
-											<!--吹过，柔柔的，软软的，象一朵云彩轻拂着我的脸-->
-											<!--。她是从春天的阳光中走来，从大山深处穿越而来，带着花草的清-->
-											<!--香，带着放飞的梦想，一路欢歌，把大地点缀得如-->
-											<!--诗如画。五月风，记载着一个个美丽的传说，每一个传说都化做一-->
-											<!--片云彩，弥漫在整个天空。-->
-										</p>
-									</div>
-									<div class="clr"></div>
-								</li><?php endforeach; endif; else: echo "" ;endif; ?>
-						</ul>
-						<div class="clr"></div>
-					</div>
-				</div>
-				<div class="clr"></div>
+			<div id="main_nav">
+				<section>
+					<h3>资源共享</h3>
+					<ul class="ultop">
+						<li><a href="/hzau/hzaucomm/index.php/Home/source/picture.html">图片</a></li>
+						<li><a href="/hzau/hzaucomm/index.php/Home/source/document.html">文件</a></li>
+						<li><a href="/hzau/hzaucomm/index.php/Home/source/video.html">视频</a></li>
+						<li><a href="/hzau/hzaucomm/index.php/Home/source/zip.html">其他</a></li>
+					</ul>
+				</section>
 			</div>
-			<div id="Ccon">
-				<div id="Cleft">
-					<div class="minihead">
-					<h3 class="m_h_title"><a >通知公告</a></h3><span class="m_h_more"><a href="/hzau/hzaucomm/index.php/Home/introduction/notice.html">更多>></a></span>
-					</div>
-					<p class="publish"><?php echo ($latestInfro); ?></p>
+			<div class="rightc_nhot">
+				<div class="mini_nav">
+					<span class="mini_title">资源共享</span>
 				</div>
-				<div id="Cbottom">
-					<div class="minihead">
-						<h3 class="m_h_title"><a >最新交流</a></h3><!-- <span class="m_h_more"><a href="">更多>></a></span> -->
-					</div>
-					<div class="c_con">
-						<div><h3  class="cr_mi_ti"><a href="/hzau/hzaucomm/index.php/Home/">新发主题</a></h3></div>
-						<div class="clr"></div>
-						<ul>
-							<?php if(is_array($latestThemes)): $i = 0; $__LIST__ = $latestThemes;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$items): $mod = ($i % 2 );++$i; $items['msdate'] = date("m-d"); ?>
-								<li class="c_c_ex"><a class="c_c_e_title" href="/hzau/hzaucomm/index.php/Home/Index/showitem/id/<?php echo ($items["id"]); ?>"><div class="point"></div><?php echo ($items["msname"]); ?></a><span class="c_c_ex_time"><?php echo ($items["msdate"]); ?></span><div class="clr"></div></li><?php endforeach; endif; else: echo "" ;endif; ?>
-						</ul>
-						<div class="clr"></div>
-					</div>
-					<div class="clr"></div>
-					<div class="c_con">
-						<div><h3  class="cr_mi_ti"><a href="">最新共享</a></h3></div>
-						<div class="clr"></div>
-						<ul>
-							<?php if(is_array($latestResource)): $i = 0; $__LIST__ = $latestResource;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$resource): $mod = ($i % 2 );++$i; switch ($resource['rstype']) { case 1: $url = "/hzau/hzaucomm/index.php/Home/Source/pictureshow/id/".$resource['id']; break; case 2: $url = "/hzau/hzaucomm/index.php/Home/Source/summary/id/".$resource['id']; break; case 3: $url = "/hzau/hzaucomm/index.php/Home/Source/summary/id/".$resource['id']; break; case 0: $url = "/hzau/hzaucomm/index.php/Home/Source/summary/id/".$resource['id']; break; default: $url = ""; } $resource['rsdate'] = date("m-d"); ?>
-								<li class="c_c_ex"><a class="c_c_e_title" href="<?php echo $url?>"><div class="point"></div><?php echo ($resource["rsname"]); ?></a><span class="c_c_ex_time"><?php echo ($resource["rsdate"]); ?></span><div class="clr"></div></li><?php endforeach; endif; else: echo "" ;endif; ?>
-						</ul>
-						<div class="clr"></div>
-					</div>
-					<div class="clr"></div>
+				<div class="summary">
+					<p class="con">
+						<?php echo ($data["content"]); ?>
+					</p>
 				</div>
-				<div class="clr"></div>
-			</div><div class="clr"></div>
-		</div>
-		<div class="clr"></div>
+			</div>
+			<div class="clr"></div>
+				
 	</div>
-	<div class="clr"></div>
+
 	<div id="Cfooter">
 		<div id="con">
 <div class="Ccontainer">
@@ -302,8 +221,8 @@
 	<script src="/hzau/hzaucomm/Public/public/js/jquery-1.8.3.min.js" ></script>
 	<script type="text/javascript" src="/hzau/hzaucomm/Public/face/js/jquery.min.js"></script>
 	<script type="text/javascript" src="/hzau/hzaucomm/Public/face/js/jquery.flexslider-min.js"></script>
-	<script type="text/javascript" src="/hzau/hzaucomm/Public/face/js/custom.js"></script>
-	<script type="text/javascript" src="/hzau/hzaucomm/Public/face/js/main.js"></script>	
+	<script type="text/javascript" src="/hzau/hzaucomm/Public/face/js/custom.js"></script> 
 	<script type="text/javascript" src="/hzau/hzaucomm/Public/face/js/logre.js"></script>
+	
 </body>
 </html>

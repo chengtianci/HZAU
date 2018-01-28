@@ -3,20 +3,20 @@
 <head>
     <meta charset="utf-8">
     <title>华中农业大学实验教学中心互动平台</title>
-  	<link rel="shortcut icon" href="/hzaulab/back.ico" type="image/x-icon" />
+  	<link rel="shortcut icon" href="/hzau/hzaulab/back.ico" type="image/x-icon" />
 
 	  <!-- Bootstrap -->
-    <link href="/hzaulab/Public/back/include/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/hzau/hzaulab/Public/back/include/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- 图标引入 -->
-    <link href="/hzaulab/Public/back/include/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/hzau/hzaulab/Public/back/include/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <!-- bootstrap-progressbar -->
-    <link href="/hzaulab/Public/back/include/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+    <link href="/hzau/hzaulab/Public/back/include/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
     <!-- Custom Theme Style -->
-    <link href="/hzaulab/Public/back/css/custom.min.css" rel="stylesheet">
-    <link href="/hzaulab/Public/back/css/public.css" rel="stylesheet" >
-    <link rel="stylesheet" type="text/css" href="/hzaulab/Public/back/css/Room.css">
-    <link rel="stylesheet" type="text/css" href="/hzaulab/Public/back/css/pot.css">
-    <script src="/hzaulab/Public/Js/jquery-3.1.1.min.js"></script>
+    <link href="/hzau/hzaulab/Public/back/css/custom.min.css" rel="stylesheet">
+    <link href="/hzau/hzaulab/Public/back/css/public.css" rel="stylesheet" >
+    <link rel="stylesheet" type="text/css" href="/hzau/hzaulab/Public/back/css/Room.css">
+    <link rel="stylesheet" type="text/css" href="/hzau/hzaulab/Public/back/css/pot.css">
+    <script src="/hzau/hzaulab/Public/Js/jquery-3.1.1.min.js"></script>
 </head>
     <body class="nav-md">
     <div class="container body">
@@ -35,7 +35,7 @@
 <!-- menu profile quick info -->
 <div class="profile clearfix">
   <div class="profile_pic">
-    <img src="/hzaulab/Public/back/images/user.png" alt="..." class="img-circle profile_img">
+    <img src="/hzau/hzaulab/Public/back/images/user.png" alt="..." class="img-circle profile_img">
   </div>
   <div class="profile_info">
     <span>Welcome,</span>
@@ -51,54 +51,55 @@
     <ul class="nav side-menu">
       <li><a><i class="fa fa-home"></i> 首页管理 <span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Index/index">页面管理</a></li>              
+          <li><a href="/hzau/hzaulab/index.php/Admin/Index/index">页面管理</a></li>              
         </ul>
       </li>
       <li><a><i class="fa fa-edit"></i> 平台概况 <span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Introduction/introduction">平台概况</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Introduction/notice">通知公告</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Introduction/connect">联系我们</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Introduction/introduction">平台概况</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Introduction/notice">通知公告</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Introduction/connect">联系我们</a></li>
         </ul>
       </li>
       <li><a><i class="fa fa-desktop"></i> 大田设施<span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Field/fieldluanch">页面发布</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Field/field">农田土地</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Field/OpenPot">露天盆栽场</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Field/fieldluanch">页面发布</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Field/field">农田土地</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Field/OpenPot">露天盆栽场</a></li>
         </ul>
       </li>
       <li><a><i class="fa fa-mortar-board"></i> 培养室<span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-            <li><a href="/hzaulab/index.php/Admin/Room/roomluanch">页面发布</a></li>
-          	<li><a href="/hzaulab/index.php/Admin/Room/WimbledonRoom">温网室</a></li>
-          	<li><a href="/hzaulab/index.php/Admin/Room/LightCultureRoom">光照培养室</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Room/roomluanch">页面发布</a></li>
+          	<li><a href="/hzau/hzaulab/index.php/Admin/Room/WimbledonRoom">温网室</a></li>
+          	<li><a href="/hzau/hzaulab/index.php/Admin/Room/LightCultureRoom">光照培养室</a></li>
       	</ul>
       <li><a><i class="fa fa-share-alt-square"></i>实验室 <span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-            <li><a href="/hzaulab/index.php/Admin/Laboratory/labluanch">页面发布</a></li>
-            <li><a href="/hzaulab/index.php/Admin/Laboratory/publiclab">公共实验室</a></li>
-            <li><a href="/hzaulab/index.php/Admin/Laboratory/teachlab">教学实验室</a></li>
-            <li><a href="/hzaulab/index.php/Admin/Laboratory/sublab">实验辅助室</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Laboratory/labluanch">页面发布</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Laboratory/publiclab">公共实验室</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Laboratory/teachlab">教学实验室</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Laboratory/sublab">实验辅助室</a></li>
         </ul>
       </li>
       <li><a><i class="fa fa-flask"></i>仪器设备<span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Equipment/equipmentluanch">页面发布</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Equipment/equipment">仪器设备</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Equipment/consume">试剂耗材</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Equipment/equipmentluanch">页面发布</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Equipment/equipment">仪器设备</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Equipment/consume">试剂耗材</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Equipment/person">设备管理人</a></li>
         </ul>
       </li>
       <li><a><i class="fa fa-user"></i>规章制度<span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Regulation/regulation">规章制度</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Regulation/service">服务指南</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Regulation/download">下载专区</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Regulation/regulation">规章制度</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Regulation/service">服务指南</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Regulation/download">下载专区</a></li>
         </ul>
       </li>
       <li><a><i class="fa fa-user"></i>采购计划<span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Plan/plan">采购计划</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Plan/plan">采购计划</a></li>
         </ul>
       </li>
     </ul>
@@ -116,7 +117,7 @@
   <a data-toggle="tooltip" data-placement="top" title="待开发">
     <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
   </a>
-  <a data-toggle="tooltip" data-placement="top" title="Logout" href="/hzaulab/index.php/Admin/Index/index">
+  <a data-toggle="tooltip" data-placement="top" title="Logout" href="/hzau/hzaulab/index.php/Admin/Index/index">
     <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
   </a>
 </div>
@@ -135,7 +136,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li class="">
           <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-            <img src="/hzaulab/Public/back/images/user.png" alt="">Mr.Tian
+            <img src="/hzau/hzaulab/Public/back/images/user.png" alt="">Mr.Tian
             <span class=" fa fa-angle-down"></span>
           </a>
           <ul class="dropdown-menu dropdown-usermenu pull-right">
@@ -147,7 +148,7 @@
               </a>
             </li>
 
-            <li><a href="/hzaulab/index.php/Admin/Index/index"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Index/index"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
           </ul>
         </li>
 
@@ -481,9 +482,9 @@
                         <?php } ?>
                         
                         <td>
-                          <a href="/hzaulab/index.php/Admin/Room/doAgree1/id/<?php echo ($items["id"]); ?>">同意 <i class="fa fa-pencil"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                          <a href="/hzau/hzaulab/index.php/Admin/Room/doAgree1/id/<?php echo ($items["id"]); ?>">同意 <i class="fa fa-pencil"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                           <!-- <a href="#" data-toggle="modal" data-target="#myModal3" >拒绝 <i class="fa fa-close"></i></a> -->
-                          <a href="/hzaulab/index.php/Admin/Room/doReject1/id/<?php echo ($items["id"]); ?>" >拒绝 <i class="fa fa-close"></i></a>
+                          <a href="/hzau/hzaulab/index.php/Admin/Room/doReject1/id/<?php echo ($items["id"]); ?>" >拒绝 <i class="fa fa-close"></i></a>
 
                         </td>
                       </tr><?php endforeach; endif; else: echo "" ;endif; ?>
@@ -545,7 +546,7 @@
                   </tbody>
                 </table>
                 <br><br>
-                <form action="/hzaulab/index.php/Admin/Room/doTheExport2" method="post">
+                <form action="/hzau/hzaulab/index.php/Admin/Room/doTheExport2" method="post">
                   <input type="text" name="value" value="东附楼B102" hidden>
                   <button type="submit" class="gallery_add">导出Excel</button>
                 </form>
@@ -832,9 +833,9 @@
                         <?php } ?>
                         
                         <td>
-                          <a href="/hzaulab/index.php/Admin/Room/doAgree1/id/<?php echo ($items["id"]); ?>">同意 <i class="fa fa-pencil"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                          <a href="/hzau/hzaulab/index.php/Admin/Room/doAgree1/id/<?php echo ($items["id"]); ?>">同意 <i class="fa fa-pencil"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                           <!-- <a href="#" data-toggle="modal" data-target="#myModal3" >拒绝 <i class="fa fa-close"></i></a> -->
-                          <a href="/hzaulab/index.php/Admin/Room/doReject1/id/<?php echo ($items["id"]); ?>" >拒绝 <i class="fa fa-close"></i></a>
+                          <a href="/hzau/hzaulab/index.php/Admin/Room/doReject1/id/<?php echo ($items["id"]); ?>" >拒绝 <i class="fa fa-close"></i></a>
 
                         </td>
                       </tr><?php endforeach; endif; else: echo "" ;endif; ?>
@@ -896,7 +897,7 @@
                   </tbody>
                 </table>
                 <br><br>
-                <form action="/hzaulab/index.php/Admin/Room/doTheExport2" method="post">
+                <form action="/hzau/hzaulab/index.php/Admin/Room/doTheExport2" method="post">
                   <input type="text" name="value" value="东附楼B103" hidden>
                   <button type="submit" class="gallery_add">导出Excel</button>
                 </form>
@@ -931,14 +932,14 @@
         <!--************************************************* 底部版权 *************************************************-->
       <footer id="footer">
     <div class="pull-right">
-		CopyRight©2017 <a href="/hzaulab/index.php/Home/Index/index.html" target="_blank" title="华中农业大学作物学实验教学中心">华中农业大学作物学实验教学中心</a> <a href="http://www.52feidian.com/" title="华中农业大学 沸点工作室" target="_blank">华中农业大学 沸点工作室</a>
+		CopyRight©2017 <a href="/hzau/hzaulab/index.php/Home/Index/index.html" target="_blank" title="华中农业大学作物学实验教学中心">华中农业大学作物学实验教学中心</a> <a href="http://www.52feidian.com/" title="华中农业大学 沸点工作室" target="_blank">华中农业大学 沸点工作室</a>
 	</div>
 	<div class="clearfix"></div>    
 </footer>
 
-      <script src="/hzaulab/Public/Js/jquery-3.1.1.min.js"></script>
-      <script type="text/javascript" src="/hzaulab/Public/Js/wangEditor.js"></script>
-      <script type="text/javascript" src="/hzaulab/Public/Js/wangEditor.min.js"></script>
+      <script src="/hzau/hzaulab/Public/Js/jquery-3.1.1.min.js"></script>
+      <script type="text/javascript" src="/hzau/hzaulab/Public/Js/wangEditor.js"></script>
+      <script type="text/javascript" src="/hzau/hzaulab/Public/Js/wangEditor.min.js"></script>
 
       <!-- 当前的使用信息B102 -->
       <script type="text/javascript">
@@ -1007,7 +1008,7 @@
                 };
                 console.log(param);
                 $.ajax({
-                    url: '/hzaulab/index.php/Admin/Room/changeSomething',//路径
+                    url: '/hzau/hzaulab/index.php/Admin/Room/changeSomething',//路径
                     type: 'POST',
                     dataType: 'json',
                     data: param,
@@ -1042,7 +1043,7 @@
                 };
                 console.log(param);
                 $.ajax({
-                    url: '/hzaulab/index.php/Admin/Room/changeSomething',//路径
+                    url: '/hzau/hzaulab/index.php/Admin/Room/changeSomething',//路径
                     type: 'POST',
                     dataType: 'json',
                     data: param,
@@ -1082,7 +1083,7 @@
             }
             console.log(check_val);
             $.ajax({
-                url: '/hzaulab/index.php/Admin/Room/changeTheStatus2',//路径
+                url: '/hzau/hzaulab/index.php/Admin/Room/changeTheStatus2',//路径
                 type: 'POST',
                 dataType: 'json',
                 data: {
@@ -1124,7 +1125,7 @@
               alert("请选定要处理的设备！");
             }
             $.ajax({
-                url: '/hzaulab/index.php/Admin/Room/changeTheStatus2',//路径
+                url: '/hzau/hzaulab/index.php/Admin/Room/changeTheStatus2',//路径
                 type: 'POST',
                 dataType: 'json',
                 data: {
@@ -1149,15 +1150,15 @@
 
     <!--************************************************* publc JS *************************************************-->
      <!-- jQuery -->
-<script src="/hzaulab/Public/back/js/jquery.min.js"></script>
+<script src="/hzau/hzaulab/Public/back/js/jquery.min.js"></script>
 <!-- Bootstrap -->
-<script src="/hzaulab/Public/back/include/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/hzau/hzaulab/Public/back/include/bootstrap/dist/js/bootstrap.min.js"></script>
 <!-- Custom Theme Scripts -->
-<script src="/hzaulab/Public/back/js/custom.min.js"></script>
+<script src="/hzau/hzaulab/Public/back/js/custom.min.js"></script>
 
 
 
-    <!-- <script src="/hzaulab/Public/back/include/datatables.net/js/jquery.dataTables.min.js"></script> -->
-    <!-- <script src="/hzaulab/Public/back/include/datatables.net-bs/js/dataTables.bootstrap.min.js"></script> -->
+    <!-- <script src="/hzau/hzaulab/Public/back/include/datatables.net/js/jquery.dataTables.min.js"></script> -->
+    <!-- <script src="/hzau/hzaulab/Public/back/include/datatables.net-bs/js/dataTables.bootstrap.min.js"></script> -->
   </body>
 </html>
