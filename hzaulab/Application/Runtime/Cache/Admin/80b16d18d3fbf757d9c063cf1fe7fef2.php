@@ -15,7 +15,7 @@
     <link href="/hzau/hzaulab/Public/back/css/custom.min.css" rel="stylesheet">
     <link href="/hzau/hzaulab/Public/back/css/public.css" rel="stylesheet" >
     <link rel="stylesheet" type="text/css" href="/hzau/hzaulab/Public/back/css/Room.css">
-    <link rel="stylesheet" type="text/css" href="/hzau/hzaulab/Public/back/css/pot.css">
+    <!-- <link rel="stylesheet" type="text/css" href="/hzau/hzaulab/Public/back/css/pot.css"> --> 
     <script src="/hzau/hzaulab/Public/Js/jquery-3.1.1.min.js"></script>
 </head>
     <body class="nav-md">
@@ -903,7 +903,211 @@
                 </form>
               </div>
             </div>
+          </div>
+          <!-- 主楼136地图 -->
+          <div class="col-md-10 col-sm-12 col-xs-12">
+            <div class="x_panel" style="min-width:800px ;">
+              <div class="x_title">
+                <h2>主楼136<small>Light Culture Room</small></h2>
+                <ul class="nav navbar-right panel_toolbox">
+                  <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
+                  </li>
+                  <li class="panel_toolbox_li"><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                  </li>
+                </ul>
+                <div class="clearfix"></div>
+              </div>
+              <div class="x_content">
+                <form>
+                  <div class="color">
+                    占用：<span class="hintred"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    锁定：<span class="hintgrey"></span>  &nbsp;&nbsp;&nbsp;&nbsp;
+                    开放：<span class="hintunlock"></span> 
+                  </div>
+                  <div class="Z136">
+                    <div class="Z_up">
+                      <table>
+                      <tr>
+                        <td class="ex" id="D6-1-3-1"> <input type="checkbox" value="D6-1-3-1"  name="theB102"><br><b>1-1-1</b></td>
+                        <td class="ex" id="D6-1-3-2"> <input type="checkbox" value="D6-1-3-2"  name="theB102"><br><b>1-3-2</b></td>
+                        <td class="ex" id="D6-1-3-3"> <input type="checkbox" value="D6-1-3-3"  name="theB102"><br><b>1-3-3</b></td>
+                      </tr>
+                      <tr>
+                        <td class="ex" id="D6-1-2-1"> <input type="checkbox" value="D6-1-2-1"  name="theB102"><br><b>1-2-1</b></td>
+                        <td class="ex" id="D6-1-2-2"> <input type="checkbox" value="D6-1-2-2"  name="theB102"><br><b>1-2-2</b></td>
+                        <td class="ex" id="D6-1-2-3"> <input type="checkbox" value="D6-1-2-3"  name="theB102"><br><b>1-2-3</b></td>
+                      </tr>
+                      <tr>
+                        <td class="ex" id="D6-1-1-1"> <input type="checkbox" value="D6-1-1-1"  name="theB102"><br><b>1-1-1</b></td>
+                        <td class="ex" id="D6-1-1-2"> <input type="checkbox" value="D6-1-1-2"  name="theB102"><br><b>1-1-2</b></td>
+                        <td class="ex" id="D6-1-1-3"> <input type="checkbox" value="D6-1-1-3"  name="theB102"><br><b>1-1-3</b></td>
+                      </tr>
+                    </table>
+                    </div>
+                    <div class="Z_mid">
+                        
+                    </div>
+                    <div class="Z_dpwn">
+                      
+                    </div>
+
+                  </div>                
+                  <select class="mutibox" name="theCaozuo" id="testSelectB103">
+                    <option value="1" selected>锁定</option>
+                    <option value="0">开放</option>
+                  </select>
+                <button class="gallery_add" type="submit" onclick="theB103Click();">修改</button>  
+                <div class="clearfix"></div>
+              </form>
+              </div>
+            </div>
+          </div>
+          <!-- 主楼136备注 -->
+          <div class="col-md-10 col-sm-12 col-xs-12">
+            <div class="x_panel">
+              <div class="x_title">
+                <h2>主楼136-备注<small>Light Culture Room</small></h2>
+                <ul class="nav navbar-right panel_toolbox">                            
+                  <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
+                  </li>
+                  <li class="panel_toolbox_li"><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                  </li>
+                </ul>
+                <div class="clearfix"></div>
+              </div>
+              <div class="x_content">
+                  <input type="text" id="idInfor" value="<?php echo ($DataofB103["id"]); ?>" hidden>
+                     <!-- <script id='container' style="height:350px;" name='content' type="text/plain"></script> -->
+                     <div id="editor3">
+                       <p><?php echo ($DataofB103); ?></p>
+                     </div><br>
+                  <br><button type="button" id="B103Submit" class="btn btn-primary">修改</button>
+              </div>          
+            </div>
           </div> 
+          <!-- 主楼136申请 -->
+          <div class="col-md-10 col-sm-12 col-xs-12">
+            <div class="x_panel">
+              <div class="x_title">
+                <h2>主楼136申请<small>Light Culture Room Application</small></h2>
+                <ul class="nav navbar-right panel_toolbox">
+                  <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
+                  </li>
+                  <li class="panel_toolbox_li"><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                  </li>
+                </ul>
+                <div class="clearfix"></div>
+              </div>
+              <div class="x_content">
+                <table id="datatable" class="table table-striped table-bordered">
+                  <thead>
+                  <tr>
+                    <th style="width: 50px;">序号</th>
+                    <th >设施位置</th>
+                    <th >设施名称</th>
+                    <th >设施编号</th>
+                    <th >开始时间</th>
+                    <th >结束时间</th>
+                    <th >样品物种</th>
+                    <th >备注</th>
+                    <th >预约人</th>
+                    <th >时间</th>
+                    <th >状态</th>
+                    <th >操作</th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                    <?php if(is_array($dataB103)): $i = 0; $__LIST__ = $dataB103;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$items): $mod = ($i % 2 );++$i;?><tr>
+                        <td><?php echo ($i); ?></td>
+                        <td><?php echo ($items["sslocation"]); ?></td>
+                        <td><?php echo ($items["ssname"]); ?></td>
+                        <td><?php echo ($items["yqid"]); ?></td>
+                        <td><?php echo ($items["ks"]); ?></td>
+                        <td><?php echo ($items["js"]); ?></td>
+                        <td><?php echo ($items["ypwz"]); ?></td>
+                        <td><?php echo ($items["other"]); ?></td>
+                        <td><?php echo ($items["uid"]); ?></td>
+                        <td><?php echo ($items["date"]); ?></td>
+                        <?php if ($items['status'] == 0) { ?>
+                            <td>等待批准</td>
+                        <?php } else if ($items['status'] == 1) { ?>
+                            <td>已批准</td>
+                        <?php } else { ?>
+                          <td>已拒绝</td>
+                        <?php } ?>
+                        
+                        <td>
+                          <a href="/hzau/hzaulab/index.php/Admin/Room/doAgree1/id/<?php echo ($items["id"]); ?>">同意 <i class="fa fa-pencil"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                          <!-- <a href="#" data-toggle="modal" data-target="#myModal3" >拒绝 <i class="fa fa-close"></i></a> -->
+                          <a href="/hzau/hzaulab/index.php/Admin/Room/doReject1/id/<?php echo ($items["id"]); ?>" >拒绝 <i class="fa fa-close"></i></a>
+
+                        </td>
+                      </tr><?php endforeach; endif; else: echo "" ;endif; ?>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div> 
+          <!-- 主楼136申请历史 -->
+          <div class="col-md-10 col-sm-12 col-xs-12">
+            <div class="x_panel">
+              <div class="x_title">
+                <h2>主楼136申请历史<small>Light Culture Room History</small></h2>
+                <ul class="nav navbar-right panel_toolbox">
+                  <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
+                  </li>
+                  <li class="panel_toolbox_li"><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                  </li>
+                </ul>
+                <div class="clearfix"></div>
+              </div>
+              <div class="x_content">
+                <table id="datatable" class="table table-striped table-bordered">
+                  <thead>
+                  <tr>
+                    <th style="width: 50px;">序号</th>
+                    <th >设施位置</th>
+                    <th >设施名称</th>
+                    <th >设施编号</th>
+                    <th >开始时间</th>
+                    <th >结束时间</th>
+                    <th >样品物种</th>
+                    <th >备注</th>
+                    <th >预约人</th>
+                    <th >时间</th>
+                    <th> 操作</th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                    <?php if(is_array($checkedB103)): $i = 0; $__LIST__ = $checkedB103;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$items): $mod = ($i % 2 );++$i;?><tr>
+                        <td><?php echo ($i); ?></td>
+                        <td><?php echo ($items["sslocation"]); ?></td>
+                        <td><?php echo ($items["ssname"]); ?></td>
+                        <td><?php echo ($items["yqid"]); ?></td>
+                        <td><?php echo ($items["ks"]); ?></td>
+                        <td><?php echo ($items["js"]); ?></td>
+                        <td><?php echo ($items["ypwz"]); ?></td>
+                        <td><?php echo ($items["other"]); ?></td>
+                        <td><?php echo ($items["uid"]); ?></td>
+                        <td><?php echo ($items["date"]); ?></td>
+                        <?php if ($items['status'] == 0) { ?>
+                            <td>等待批准</td>
+                        <?php } else if ($items['status'] == 1) { ?>
+                            <td>已批准</td>
+                        <?php } else { ?>
+                          <td>已拒绝</td>
+                        <?php } ?>
+                      </tr><?php endforeach; endif; else: echo "" ;endif; ?>
+                  </tbody>
+                </table>
+                <br><br>
+                <form action="/hzau/hzaulab/index.php/Admin/Room/doTheExport2" method="post">
+                  <input type="text" name="value" value="东附楼B103" hidden>
+                  <button type="submit" class="gallery_add">导出Excel</button>
+                </form>
+              </div>
+            </div>
+          </div>  
 
       </div>
      <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -1059,6 +1263,12 @@
                 });
             });
         });
+      </script>
+      <!-- 136编辑器 -->
+      <script type="text/javascript">
+        var E = window.wangEditor;
+        var editor136 = new E(document.getElementById('editor3'));
+        editor136.create();
       </script>
       <!-- 获取选定的东辅楼B102 -->
       <script type="text/javascript">

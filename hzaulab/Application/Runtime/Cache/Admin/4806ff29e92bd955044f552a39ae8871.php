@@ -300,6 +300,127 @@
             </div>
           </div>
           <div class="col-md-10 col-sm-12 col-xs-12">
+            <div class="x_panel">
+              <div class="x_title">
+                <h2>山南露天盆栽场申请<small>Openpot Application</small></h2>
+                <ul class="nav navbar-right panel_toolbox">
+                  <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
+                  </li>
+                  <li class="panel_toolbox_li"><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                  </li>
+                </ul>
+                <div class="clearfix"></div>
+              </div>
+              <div class="x_content">
+                <table id="datatable" class="table table-striped table-bordered">
+                  <thead>
+                  <tr>
+                    <th style="width: 50px;">序号</th>
+                    <th >设施位置</th>
+                    <th >设施名称</th>
+                    <th >设施编号</th>
+                    <th >开始时间</th>
+                    <th >结束时间</th>
+                    <th >样品物种</th>
+                    <th >备注</th>
+                    <th >预约人</th>
+                    <th >时间</th>
+                    <th >状态</th>
+                    <th >操作</th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                    <?php if(is_array($data)): $i = 0; $__LIST__ = $data;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$items): $mod = ($i % 2 );++$i;?><tr>
+                        <td><?php echo ($i); ?></td>
+                        <td><?php echo ($items["sslocation"]); ?></td>
+                        <td><?php echo ($items["ssname"]); ?></td>
+                        <td><?php echo ($items["yqid"]); ?></td>
+                        <td><?php echo ($items["ks"]); ?></td>
+                        <td><?php echo ($items["js"]); ?></td>
+                        <td><?php echo ($items["ypwz"]); ?></td>
+                        <td><?php echo ($items["other"]); ?></td>
+                        <td><?php echo ($items["uid"]); ?></td>
+                        <td><?php echo ($items["date"]); ?></td>
+                        <?php if ($items['status'] == 0) { ?>
+                            <td>等待批准</td>
+                        <?php } else if ($items['status'] == 1) { ?>
+                            <td>已批准</td>
+                        <?php } else { ?>
+                          <td>已拒绝</td>
+                        <?php } ?>
+                        
+                        <td>
+                          <a href="/hzau/hzaulab/index.php/Admin/Field/doAgree/id/<?php echo ($items["id"]); ?>">同意 <i class="fa fa-pencil"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                          <!-- <a href="#" data-toggle="modal" data-target="#myModal3" >拒绝 <i class="fa fa-close"></i></a> -->
+                          <a href="/hzau/hzaulab/index.php/Admin/Field/doReject/id/<?php echo ($items["id"]); ?>" >拒绝 <i class="fa fa-close"></i></a>
+
+                        </td>
+                      </tr><?php endforeach; endif; else: echo "" ;endif; ?>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-10 col-sm-12 col-xs-12">
+            <div class="x_panel">
+              <div class="x_title">
+                <h2>山南露天盆栽场申请历史<small>Lab Application History</small></h2>
+                <ul class="nav navbar-right panel_toolbox">
+                  <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
+                  </li>
+                  <li class="panel_toolbox_li"><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                  </li>
+                </ul>
+                <div class="clearfix"></div>
+              </div>
+              <div class="x_content">
+                <table id="datatable" class="table table-striped table-bordered">
+                  <thead>
+                  <tr>
+                    <th style="width: 50px;">序号</th>
+                    <th >设施位置</th>
+                    <th >设施名称</th>
+                    <th >设施编号</th>
+                    <th >开始时间</th>
+                    <th >结束时间</th>
+                    <th >样品物种</th>
+                    <th >备注</th>
+                    <th >预约人</th>
+                    <th >时间</th>
+                    <th> 操作</th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                    <?php if(is_array($checked)): $i = 0; $__LIST__ = $checked;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$items): $mod = ($i % 2 );++$i;?><tr>
+                        <td><?php echo ($i); ?></td>
+                        <td><?php echo ($items["sslocation"]); ?></td>
+                        <td><?php echo ($items["ssname"]); ?></td>
+                        <td><?php echo ($items["yqid"]); ?></td>
+                        <td><?php echo ($items["ks"]); ?></td>
+                        <td><?php echo ($items["js"]); ?></td>
+                        <td><?php echo ($items["ypwz"]); ?></td>
+                        <td><?php echo ($items["other"]); ?></td>
+                        <td><?php echo ($items["uid"]); ?></td>
+                        <td><?php echo ($items["date"]); ?></td>
+                        <?php if ($items['status'] == 0) { ?>
+                            <td>等待批准</td>
+                        <?php } else if ($items['status'] == 1) { ?>
+                            <td>已批准</td>
+                        <?php } else { ?>
+                          <td>已拒绝</td>
+                        <?php } ?>
+                      </tr><?php endforeach; endif; else: echo "" ;endif; ?>
+                  </tbody>
+                </table>
+                <br><br>
+                <form action="/hzau/hzaulab/index.php/Admin/Field/doTheExport" method="post">
+                  <button type="submit" class="gallery_add">导出Excel</button>
+                </form>
+                <!-- <div data-toggle="modal" data-target="#myModal2" class="gallery_add">导出Excel</div> -->
+              </div>
+            </div>
+          </div>
+          <div class="col-md-10 col-sm-12 col-xs-12">
             <div class="x_panel" style="min-width: 740px;">
               <div class="x_title">
                 <h2>山北露天盆栽场<small>Open Field Pot</small></h2>
@@ -403,7 +524,7 @@
           <div class="col-md-10 col-sm-12 col-xs-12">
             <div class="x_panel">
               <div class="x_title">
-                <h2>露天盆栽场申请<small>Openpot Application</small></h2>
+                <h2>山北露天盆栽场申请<small>Openpot Application</small></h2>
                 <ul class="nav navbar-right panel_toolbox">
                   <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
                   </li>
@@ -465,7 +586,7 @@
           <div class="col-md-10 col-sm-12 col-xs-12">
             <div class="x_panel">
               <div class="x_title">
-                <h2>露天盆栽场申请历史<small>Lab Application History</small></h2>
+                <h2>山北露天盆栽场申请历史<small>Lab Application History</small></h2>
                 <ul class="nav navbar-right panel_toolbox">
                   <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
                   </li>

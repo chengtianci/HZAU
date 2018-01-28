@@ -219,6 +219,26 @@
 	margin: 55px 10px 0 10px;
 	background: #1ABB9C;
 }
+.Z136{
+	width: 760px;
+	border: 1px dashed #ddd;
+}
+.Z136 .Z_up {
+	width: 100%;
+}
+.Z136 .Z_up tr td {
+	width: 130px;
+	height: 30px;
+	padding: 2px;
+	text-align: center;
+	box-shadow:  0 0 1px 1px;
+}
+.Z136 .Z_mid {
+	
+}
+.Z136 .Z_down {
+	
+}
 .ex {
 	background: white;
 }
