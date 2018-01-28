@@ -3,20 +3,20 @@
 <head>
     <meta charset="utf-8">
     <title>华中农业大学实验教学中心互动平台</title>
-  	<link rel="shortcut icon" href="/hzaulab/back.ico" type="image/x-icon" />
+  	<link rel="shortcut icon" href="/hzau/hzaulab/back.ico" type="image/x-icon" />
 
 	  <!-- Bootstrap -->
-    <link href="/hzaulab/Public/back/include/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/hzau/hzaulab/Public/back/include/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- 图标引入 -->
-    <link href="/hzaulab/Public/back/include/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/hzau/hzaulab/Public/back/include/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <!-- bootstrap-progressbar -->
-    <link href="/hzaulab/Public/back/include/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+    <link href="/hzau/hzaulab/Public/back/include/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
     <!-- Custom Theme Style -->
-    <link href="/hzaulab/Public/back/css/custom.min.css" rel="stylesheet">
-    <link href="/hzaulab/Public/back/css/public.css" rel="stylesheet" >
-    <link rel="stylesheet" type="text/css" href="/hzaulab/Public/back/css/pot.css">
-    <!-- <script type="text/javascript" src="/hzaulab/Public/public/js/jquery-1.8.3.min.js"></script>   -->
-    <script src="/hzaulab/Public/Js/jquery-3.1.1.min.js"></script>
+    <link href="/hzau/hzaulab/Public/back/css/custom.min.css" rel="stylesheet">
+    <link href="/hzau/hzaulab/Public/back/css/public.css" rel="stylesheet" >
+    <link rel="stylesheet" type="text/css" href="/hzau/hzaulab/Public/back/css/pot.css">
+    <!-- <script type="text/javascript" src="/hzau/hzaulab/Public/public/js/jquery-1.8.3.min.js"></script>   -->
+    <script src="/hzau/hzaulab/Public/Js/jquery-3.1.1.min.js"></script>
 
 </head>
     <body class="nav-md">
@@ -36,7 +36,7 @@
 <!-- menu profile quick info -->
 <div class="profile clearfix">
   <div class="profile_pic">
-    <img src="/hzaulab/Public/back/images/user.png" alt="..." class="img-circle profile_img">
+    <img src="/hzau/hzaulab/Public/back/images/user.png" alt="..." class="img-circle profile_img">
   </div>
   <div class="profile_info">
     <span>Welcome,</span>
@@ -52,54 +52,55 @@
     <ul class="nav side-menu">
       <li><a><i class="fa fa-home"></i> 首页管理 <span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Index/index">页面管理</a></li>              
+          <li><a href="/hzau/hzaulab/index.php/Admin/Index/index">页面管理</a></li>              
         </ul>
       </li>
       <li><a><i class="fa fa-edit"></i> 平台概况 <span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Introduction/introduction">平台概况</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Introduction/notice">通知公告</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Introduction/connect">联系我们</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Introduction/introduction">平台概况</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Introduction/notice">通知公告</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Introduction/connect">联系我们</a></li>
         </ul>
       </li>
       <li><a><i class="fa fa-desktop"></i> 大田设施<span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Field/fieldluanch">页面发布</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Field/field">农田土地</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Field/OpenPot">露天盆栽场</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Field/fieldluanch">页面发布</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Field/field">农田土地</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Field/OpenPot">露天盆栽场</a></li>
         </ul>
       </li>
       <li><a><i class="fa fa-mortar-board"></i> 培养室<span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-            <li><a href="/hzaulab/index.php/Admin/Room/roomluanch">页面发布</a></li>
-          	<li><a href="/hzaulab/index.php/Admin/Room/WimbledonRoom">温网室</a></li>
-          	<li><a href="/hzaulab/index.php/Admin/Room/LightCultureRoom">光照培养室</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Room/roomluanch">页面发布</a></li>
+          	<li><a href="/hzau/hzaulab/index.php/Admin/Room/WimbledonRoom">温网室</a></li>
+          	<li><a href="/hzau/hzaulab/index.php/Admin/Room/LightCultureRoom">光照培养室</a></li>
       	</ul>
       <li><a><i class="fa fa-share-alt-square"></i>实验室 <span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-            <li><a href="/hzaulab/index.php/Admin/Laboratory/labluanch">页面发布</a></li>
-            <li><a href="/hzaulab/index.php/Admin/Laboratory/publiclab">公共实验室</a></li>
-            <li><a href="/hzaulab/index.php/Admin/Laboratory/teachlab">教学实验室</a></li>
-            <li><a href="/hzaulab/index.php/Admin/Laboratory/sublab">实验辅助室</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Laboratory/labluanch">页面发布</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Laboratory/publiclab">公共实验室</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Laboratory/teachlab">教学实验室</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Laboratory/sublab">实验辅助室</a></li>
         </ul>
       </li>
       <li><a><i class="fa fa-flask"></i>仪器设备<span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Equipment/equipmentluanch">页面发布</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Equipment/equipment">仪器设备</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Equipment/consume">试剂耗材</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Equipment/equipmentluanch">页面发布</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Equipment/equipment">仪器设备</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Equipment/consume">试剂耗材</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Equipment/person">设备管理人</a></li>
         </ul>
       </li>
       <li><a><i class="fa fa-user"></i>规章制度<span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Regulation/regulation">规章制度</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Regulation/service">服务指南</a></li>
-          <li><a href="/hzaulab/index.php/Admin/Regulation/download">下载专区</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Regulation/regulation">规章制度</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Regulation/service">服务指南</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Regulation/download">下载专区</a></li>
         </ul>
       </li>
       <li><a><i class="fa fa-user"></i>采购计划<span class="fa fa-chevron-down"></span></a>
         <ul class="nav child_menu">
-          <li><a href="/hzaulab/index.php/Admin/Plan/plan">采购计划</a></li>
+          <li><a href="/hzau/hzaulab/index.php/Admin/Plan/plan">采购计划</a></li>
         </ul>
       </li>
     </ul>
@@ -117,7 +118,7 @@
   <a data-toggle="tooltip" data-placement="top" title="待开发">
     <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
   </a>
-  <a data-toggle="tooltip" data-placement="top" title="Logout" href="/hzaulab/index.php/Admin/Index/index">
+  <a data-toggle="tooltip" data-placement="top" title="Logout" href="/hzau/hzaulab/index.php/Admin/Index/index">
     <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
   </a>
 </div>
@@ -136,7 +137,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li class="">
           <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-            <img src="/hzaulab/Public/back/images/user.png" alt="">Mr.Tian
+            <img src="/hzau/hzaulab/Public/back/images/user.png" alt="">Mr.Tian
             <span class=" fa fa-angle-down"></span>
           </a>
           <ul class="dropdown-menu dropdown-usermenu pull-right">
@@ -148,7 +149,7 @@
               </a>
             </li>
 
-            <li><a href="/hzaulab/index.php/Admin/Index/index"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
+            <li><a href="/hzau/hzaulab/index.php/Admin/Index/index"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
           </ul>
         </li>
 
@@ -194,7 +195,7 @@
           <div class="col-md-10 col-sm-12 col-xs-12">
             <div class="x_panel" style="min-width: 740px;">
               <div class="x_title">
-                <h2>露天盆栽场<small>Open Field Pot</small></h2>
+                <h2>山南露天盆栽场<small>Open Field Pot</small></h2>
                 <ul class="nav navbar-right panel_toolbox">
                   <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
                   </li>
@@ -277,7 +278,7 @@
           <div class="col-md-10 col-sm-6 col-xs-12">
             <div class="x_panel" style="min-width: 740px;">
               <div class="x_title">
-                <h2>露天盆栽场-备注<small>Field Facility</small></h2>
+                <h2>山南露天盆栽场-备注<small>Field Facility</small></h2>
                 <ul class="nav navbar-right panel_toolbox">                            
                   <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
                   </li>
@@ -289,6 +290,107 @@
               <div class="x_content">
                   <input type="text" id="idInfor" value="<?php echo ($data["id"]); ?>" hidden>
                      <div id="editor">
+                       <p>
+                         <?php echo ($thePzModel); ?>
+                       </p>
+                     </div><br>
+                  <br><button type="button" id="saveContentE" class="btn btn-primary">修改</button>
+                <br>
+              </div>          
+            </div>
+          </div>
+          <div class="col-md-10 col-sm-12 col-xs-12">
+            <div class="x_panel" style="min-width: 740px;">
+              <div class="x_title">
+                <h2>山北露天盆栽场<small>Open Field Pot</small></h2>
+                <ul class="nav navbar-right panel_toolbox">
+                  <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
+                  </li>
+                  <li class="panel_toolbox_li"><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                  </li>
+                </ul>
+                <div class="clearfix"></div>
+              </div>
+              <div class="x_content">
+                <form>
+                  <div class="color">
+                    占用：<span class="hintred"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    锁定：<span class="hintgrey"></span>  &nbsp;&nbsp;&nbsp;&nbsp;
+                    开放：<span class="hintunlock"></span> 
+                  </div>
+                  <div class="pot2">
+                    <div class="row">
+                      <div class="ex" id="PZ-1" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-1"><b>PZ-1</b></div>
+                      <div class="ex" id="PZ-4" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-4"><b>PZ-4</b></div>
+                    </div>
+                    <div class="row">
+                      <div class="ex" id="PZ-2" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-2"><b>PZ-2</b></div>
+                      <div class="ex" id="PZ-5" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-5"><b>PZ-5</b></div>
+                    </div>
+                    <div class="row">
+                      <div class="ex" id="PZ-3" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-3"><b>PZ-3</b></div>
+                      <div class="ex" id="PZ-6" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-6"><b>PZ-6</b></div>
+                    </div>
+                    <div class="row">
+                      
+                    </div>
+                    <div class="row">
+                      <div class="ex" id="PZ-7" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-7"><b>PZ-7</b></div>
+                      <div class="ex" id="PZ-14" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-14"><b>PZ-14</b></div>
+                    </div>
+                    <div class="row">
+                      <div class="ex" id="PZ-8" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-8"><b>PZ-8</b></div>
+                      <div class="ex" id="PZ-15" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-15"><b>PZ-15</b></div>
+                    </div>
+                    <div class="row">
+                      <div class="ex" id="PZ-9" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-9"><b>PZ-9</b></div>
+                      <div class="ex" id="PZ-16" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-16"><b>PZ-16</b></div>
+                    </div>
+                    <div class="row">
+                      <div class="ex" id="PZ-10" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-10"><b>PZ-10</b></div>
+                      <div class="ex" id="PZ-17" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-17"><b>PZ-17</b></div>
+                    </div>
+                    <div class="row">
+                      <div class="ex" id="PZ-11" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-11"><b>PZ-11</b></div>
+                      <div class="ex" id="PZ-18" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-18"><b>PZ-18</b></div>
+                    </div>
+                    <div class="row">
+                      <div class="ex" id="PZ-12" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-12"><b>PZ-12</b></div>
+                      <div class="ex" id="PZ-19" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-19"><b>PZ-19</b></div>
+                    </div>
+                    <div class="row">
+                      <div class="ex" id="PZ-13" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-13"><b>PZ-13</b></div>
+                      <div class="ex" id="PZ-20" name="openPot"><input type="checkbox" name ="thePenzai" value="PZ-2"><b>PZ-20</b></div>
+                    </div>
+                  <div class="clearfix"></div>
+                </div>
+                  <div class="clearfix"></div>
+
+                  <select class="mutibox" name="theCaozuo" id="testSelect">
+                    <option value="1" selected>锁定</option>
+                    <option value="0">开放</option>
+                  </select>
+                  <input type="button" class="gallery_add" value="确定" onclick="getTheChecked();">
+                </form>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-10 col-sm-6 col-xs-12">
+            <div class="x_panel" style="min-width: 740px;">
+              <div class="x_title">
+                <h2>山北露天盆栽场-备注<small>Field Facility</small></h2>
+                <ul class="nav navbar-right panel_toolbox">                            
+                  <li class="panel_toolbox_li"><a class="close-link"><i class="fa fa-close"></i></a>
+                  </li>
+                  <li class="panel_toolbox_li"><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                  </li>
+                </ul>
+                <div class="clearfix"></div>
+              </div>
+              <div class="x_content">
+                  <input type="text" id="idInfor" value="<?php echo ($data["id"]); ?>" hidden>
+                     <div id="editor2">
                        <p>
                          <?php echo ($thePzModel); ?>
                        </p>
@@ -349,9 +451,9 @@
                         <?php } ?>
                         
                         <td>
-                          <a href="/hzaulab/index.php/Admin/Field/doAgree/id/<?php echo ($items["id"]); ?>">同意 <i class="fa fa-pencil"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                          <a href="/hzau/hzaulab/index.php/Admin/Field/doAgree/id/<?php echo ($items["id"]); ?>">同意 <i class="fa fa-pencil"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                           <!-- <a href="#" data-toggle="modal" data-target="#myModal3" >拒绝 <i class="fa fa-close"></i></a> -->
-                          <a href="/hzaulab/index.php/Admin/Field/doReject/id/<?php echo ($items["id"]); ?>" >拒绝 <i class="fa fa-close"></i></a>
+                          <a href="/hzau/hzaulab/index.php/Admin/Field/doReject/id/<?php echo ($items["id"]); ?>" >拒绝 <i class="fa fa-close"></i></a>
 
                         </td>
                       </tr><?php endforeach; endif; else: echo "" ;endif; ?>
@@ -412,7 +514,7 @@
                   </tbody>
                 </table>
                 <br><br>
-                <form action="/hzaulab/index.php/Admin/Field/doTheExport" method="post">
+                <form action="/hzau/hzaulab/index.php/Admin/Field/doTheExport" method="post">
                   <button type="submit" class="gallery_add">导出Excel</button>
                 </form>
                 <!-- <div data-toggle="modal" data-target="#myModal2" class="gallery_add">导出Excel</div> -->
@@ -468,17 +570,19 @@
         <!--************************************************* 底部版权 *************************************************-->
       <footer id="footer">
     <div class="pull-right">
-		CopyRight©2017 <a href="/hzaulab/index.php/Home/Index/index.html" target="_blank" title="华中农业大学作物学实验教学中心">华中农业大学作物学实验教学中心</a> <a href="http://www.52feidian.com/" title="华中农业大学 沸点工作室" target="_blank">华中农业大学 沸点工作室</a>
+		CopyRight©2017 <a href="/hzau/hzaulab/index.php/Home/Index/index.html" target="_blank" title="华中农业大学作物学实验教学中心">华中农业大学作物学实验教学中心</a> <a href="http://www.52feidian.com/" title="华中农业大学 沸点工作室" target="_blank">华中农业大学 沸点工作室</a>
 	</div>
 	<div class="clearfix"></div>    
 </footer>
 
-      <script type="text/javascript" src="/hzaulab/Public/Js/wangEditor.js"></script>
-      <script type="text/javascript" src="/hzaulab/Public/Js/wangEditor.min.js"></script>
+      <script type="text/javascript" src="/hzau/hzaulab/Public/Js/wangEditor.js"></script>
+      <script type="text/javascript" src="/hzau/hzaulab/Public/Js/wangEditor.min.js"></script>
       <script type="text/javascript">
         var E = window.wangEditor;
         var editor = new E( document.getElementById('editor') );
         editor.create();
+        var editor2 = new E( document.getElementById('editor2') );
+        editor2.create();
         // console.log(editor);
         $(function () {
             $('#saveContentE').click(function () {
@@ -490,7 +594,7 @@
                     msct:html
                 };
                 $.ajax({
-                    url: '/hzaulab/index.php/Admin/Field/changeTheIntro',//路径
+                    url: '/hzau/hzaulab/index.php/Admin/Field/changeTheIntro',//路径
                     type: 'POST',
                     dataType: 'json',
                     data: param,
@@ -550,7 +654,7 @@
               alert("请选定要处理的设备！");
             }
             $.ajax({
-                url: '/hzaulab/index.php/Admin/Field/changeTheStatus',//路径
+                url: '/hzau/hzaulab/index.php/Admin/Field/changeTheStatus',//路径
                 type: 'POST',
                 dataType: 'json',
                 data: {
@@ -576,15 +680,15 @@
 
     <!--************************************************* publc JS *************************************************-->
      <!-- jQuery -->
-<script src="/hzaulab/Public/back/js/jquery.min.js"></script>
+<script src="/hzau/hzaulab/Public/back/js/jquery.min.js"></script>
 <!-- Bootstrap -->
-<script src="/hzaulab/Public/back/include/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/hzau/hzaulab/Public/back/include/bootstrap/dist/js/bootstrap.min.js"></script>
 <!-- Custom Theme Scripts -->
-<script src="/hzaulab/Public/back/js/custom.min.js"></script>
+<script src="/hzau/hzaulab/Public/back/js/custom.min.js"></script>
 
 
 
-    <script src="/hzaulab/Public/back/include/datatables.net/js/jquery.dataTables.min.js"></script>
-    <script src="/hzaulab/Public/back/include/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script src="/hzau/hzaulab/Public/back/include/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="/hzau/hzaulab/Public/back/include/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
   </body>
 </html>
