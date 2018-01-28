@@ -1,0 +1,97 @@
+[ 2017-09-05T00:18:45+08:00 ] ::1 /hzaulab/index.php/Home/Fictitious/Uploads/Regulation./2017-09-05/59ad7c48e412a.docx
+ERR: 非法操作:Uploads
+
+[ 2017-09-05T00:47:51+08:00 ] ::1 /hzaulab/index.php/Home/Index/index
+ERR: 1054:Unknown column 'date' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `tp_wj` WHERE ( rsType = 2 ) ORDER BY date desc LIMIT 5  
+
+[ 2017-09-05T07:31:07+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003059s ]
+
+[ 2017-09-05T07:31:11+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2017-09-05T11:03:10+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:selectALL方法不存在！
+
+[ 2017-09-05T11:37:37+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: 1054:Unknown column 'yqid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_log` WHERE ( yqid = 'PZ-9' ) 
+
+[ 2017-09-05T11:37:38+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: 1054:Unknown column 'yqid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_log` WHERE ( yqid = 'PZ-9' ) 
+
+[ 2017-09-05T11:38:11+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: 1054:Unknown column 'yqid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_log` WHERE ( yqid = PZ-9 ) 
+
+[ 2017-09-05T11:38:12+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: 1054:Unknown column 'yqid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_log` WHERE ( yqid = PZ-9 ) 
+
+[ 2017-09-05T11:38:12+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: 1054:Unknown column 'yqid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_log` WHERE ( yqid = PZ-9 ) 
+
+[ 2017-09-05T11:38:12+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: 1054:Unknown column 'yqid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_log` WHERE ( yqid = PZ-9 ) 
+
+[ 2017-09-05T11:38:12+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: 1054:Unknown column 'yqid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_log` WHERE ( yqid = PZ-9 ) 
+
+[ 2017-09-05T11:38:13+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: 1054:Unknown column 'yqid' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_log` WHERE ( yqid = PZ-9 ) 
+
+[ 2017-09-05T11:38:27+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '\'PZ-9\' )' at line 1
+ [ SQL语句 ] : SELECT * FROM `tp_log` WHERE ( yqid = \'PZ-9\' ) 
+
+[ 2017-09-05T16:53:24+08:00 ] ::1 /hzaulab/index.php/Home/Field/OpenPot
+ERR: 非法操作:OpenPot
+
+[ 2017-09-05T22:17:44+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2017-09-05T22:17:45+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2017-09-05T22:17:45+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001186s ]
+
+[ 2017-09-05T22:17:46+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000882s ]
+

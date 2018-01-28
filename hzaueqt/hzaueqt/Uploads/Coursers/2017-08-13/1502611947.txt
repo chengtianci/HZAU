@@ -1,0 +1,11 @@
+列表的相关操作：
+
+添加新的元素（与删除相对应）
+append
+extend
+insert
+
+删除新的元素（与添加相对应）
+pop
+remove
+del

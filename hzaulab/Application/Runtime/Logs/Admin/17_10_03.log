@@ -1,0 +1,11 @@
+[ 2017-10-03T14:32:36+08:00 ] ::1 /hzaulab/index.php/Admin/Field/changeTheStatus
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017482s ]
+SQL: SHOW COLUMNS FROM `tp_pz` [ RunTime:0.0644s ]
+SQL: SHOW COLUMNS FROM `tp_pz` [ RunTime:0.0018s ]
+SQL: UPDATE `tp_pz` SET `status`='1' WHERE ( id = "PZ-31" ) [ RunTime:0.0513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006254s ]
+

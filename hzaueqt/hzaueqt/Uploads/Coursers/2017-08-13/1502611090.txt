@@ -1,0 +1,6 @@
+字典的操作：
+
+增：xxx[key] = value
+删：del xxx[key]
+改：xxx[key] = newValue
+查：xxx.get(key)

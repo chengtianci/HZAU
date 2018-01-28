@@ -1,0 +1,208 @@
+[ 2017-10-05T19:21:52+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:22:24+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:22:25+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:22:27+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:22:30+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:22:58+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:23:17+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:23:21+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:24:00+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:24:04+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:25:59+08:00 ] ::1 /hzaulab/index.php/Home/Search/searchOneday
+ERR: 1146:Table 'zkydatabase.tp_query' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_query`
+
+[ 2017-10-05T19:40:02+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002566s ]
+
+[ 2017-10-05T19:43:44+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003544s ]
+
+[ 2017-10-05T19:44:33+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005904s ]
+
+[ 2017-10-05T19:44:44+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007790s ]
+
+[ 2017-10-05T19:46:38+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005370s ]
+
+[ 2017-10-05T19:46:50+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002456s ]
+
+[ 2017-10-05T19:47:49+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003555s ]
+
+[ 2017-10-05T19:51:28+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002379s ]
+
+[ 2017-10-05T19:52:43+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005176s ]
+
+[ 2017-10-05T19:52:55+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004687s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003704s ]
+
+[ 2017-10-05T19:53:32+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001701s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001630s ]
+
+[ 2017-10-05T19:53:51+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002856s ]
+
+[ 2017-10-05T19:54:22+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004198s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004995s ]
+
+[ 2017-10-05T19:56:23+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006744s ]
+
+[ 2017-10-05T19:59:01+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004084s ]
+
+[ 2017-10-05T20:01:15+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003651s ]
+
+[ 2017-10-05T20:01:54+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002816s ]
+
+[ 2017-10-05T20:02:22+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002852s ]
+
+[ 2017-10-05T20:03:30+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003752s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001956s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002347s ]
+
+[ 2017-10-05T20:05:20+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002542s ]
+
+[ 2017-10-05T20:20:13+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001551s ]
+
+[ 2017-10-05T20:20:29+08:00 ] ::1 /hzaulab/index.php/Home/Field/doWord
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003241s ]
+

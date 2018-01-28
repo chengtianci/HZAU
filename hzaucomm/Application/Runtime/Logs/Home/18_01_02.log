@@ -1,0 +1,1704 @@
+[ 2018-01-02T12:35:36+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T12:35:53+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T12:37:56+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T12:38:09+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T12:39:07+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T12:39:55+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T12:40:03+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T12:49:08+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 1146:Table 'zkycomm.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
+[ 2018-01-02T12:49:20+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 1146:Table 'zkycomm.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
+[ 2018-01-02T12:49:33+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 1146:Table 'zkycomm.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
+[ 2018-01-02T12:50:39+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 1146:Table 'zkycomm.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
+[ 2018-01-02T12:51:30+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 1146:Table 'zkycomm.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
+[ 2018-01-02T12:52:22+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 1146:Table 'zkycomm.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
+[ 2018-01-02T12:53:04+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 1146:Table 'zkycomm.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
+[ 2018-01-02T12:53:12+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 1146:Table 'zkycomm.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
+[ 2018-01-02T12:53:33+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+ERR: 1146:Table 'zkycomm.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
+[ 2018-01-02T12:53:59+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002602s ]
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2018-01-02T12:56:17+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.048499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003687s ]
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2018-01-02T12:56:20+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004382s ]
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2018-01-02T12:56:31+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.032461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.034756s ]
+
+[ 2018-01-02T12:56:35+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002925s ]
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2018-01-02T12:57:23+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004116s ]
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2018-01-02T12:58:51+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002364s ]
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2018-01-02T12:58:55+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003549s ]
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2018-01-02T12:59:16+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002386s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T12:59:26+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002790s ]
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2018-01-02T13:00:05+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003652s ]
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'zkyuser.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2018-01-02T13:03:12+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005033s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0024s ]
+NOTIC: [8] Undefined index: auth D:\wamp64\www\hzaucomm\Application\Home\Model\UserModel.class.php 第 75 行.
+NOTIC: [8] Undefined offset: 1 D:\wamp64\www\hzaucomm\Application\Home\Model\UserModel.class.php 第 75 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `tp_student` [ RunTime:0.0024s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `tp_student` WHERE ( stuser = "doubibobo" ) LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2018-01-02T13:03:14+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002319s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:03:16+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003264s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:03:17+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002977s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:03:19+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002423s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:03:20+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002369s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:04:21+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000386s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003279s ]
+SQL: SHOW COLUMNS FROM `tp_infro` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `tp_infro` ORDER BY id desc LIMIT 1   [ RunTime:0.0015s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:04:22+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000217s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002498s ]
+SQL: SHOW COLUMNS FROM `tp_infro` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `tp_infro` ORDER BY id desc LIMIT 1   [ RunTime:0.0017s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:04:23+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002340s ]
+SQL: SHOW COLUMNS FROM `tp_infro` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `tp_infro` ORDER BY id desc LIMIT 1   [ RunTime:0.0016s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:04:23+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002467s ]
+SQL: SHOW COLUMNS FROM `tp_infro` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `tp_infro` ORDER BY id desc LIMIT 1   [ RunTime:0.0017s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:04:23+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000175s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007173s ]
+SQL: SHOW COLUMNS FROM `tp_infro` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tp_infro` ORDER BY id desc LIMIT 1   [ RunTime:0.0027s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:04:24+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005271s ]
+SQL: SHOW COLUMNS FROM `tp_infro` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tp_infro` ORDER BY id desc LIMIT 1   [ RunTime:0.0031s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:04:24+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004134s ]
+SQL: SHOW COLUMNS FROM `tp_infro` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `tp_infro` ORDER BY id desc LIMIT 1   [ RunTime:0.0026s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:04:24+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005442s ]
+SQL: SHOW COLUMNS FROM `tp_infro` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `tp_infro` ORDER BY id desc LIMIT 1   [ RunTime:0.0018s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T13:36:31+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000185s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001983s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002674s ]
+SQL: SHOW COLUMNS FROM `tp_infro` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `tp_infro` ORDER BY id desc LIMIT 1   [ RunTime:0.0024s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T18:59:43+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000215s ]
+INFO: [ app_init ] --END-- [ RunTime:0.086800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.093681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.094288s ]
+SQL: SHOW COLUMNS FROM `tp_infro` [ RunTime:0.0358s ]
+SQL: SELECT * FROM `tp_infro` ORDER BY id desc LIMIT 1   [ RunTime:0.0017s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-02T19:00:40+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001721s ]
+
+[ 2018-01-02T19:00:41+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002779s ]
+
+[ 2018-01-02T19:00:45+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001664s ]
+
+[ 2018-01-02T19:00:47+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000216s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004623s ]
+
+[ 2018-01-02T19:00:48+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003065s ]
+
+[ 2018-01-02T19:00:49+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002630s ]
+
+[ 2018-01-02T19:00:49+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000385s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003259s ]
+
+[ 2018-01-02T19:00:52+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003142s ]
+
+[ 2018-01-02T19:00:52+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003562s ]
+
+[ 2018-01-02T19:00:55+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010432s ]
+
+[ 2018-01-02T19:00:57+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002594s ]
+
+[ 2018-01-02T19:00:57+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002675s ]
+
+[ 2018-01-02T19:01:04+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003126s ]
+
+[ 2018-01-02T19:01:07+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001606s ]
+
+[ 2018-01-02T19:01:07+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002863s ]
+
+[ 2018-01-02T19:01:47+08:00 ] ::1 /hzaucomm/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002436s ]
+
+[ 2018-01-02T19:01:52+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+
+[ 2018-01-02T19:01:53+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000232s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002778s ]
+
+[ 2018-01-02T19:02:20+08:00 ] ::1 /hzaucomm/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003039s ]
+ERR: 1364:Field 'stid' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_student` (`stuser`,`stpwd`) VALUES ('doubibobolalala','77017c90d2ad14232ba029b880c25363')
+
+[ 2018-01-02T19:05:30+08:00 ] ::1 /hzaucomm/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002578s ]
+
+[ 2018-01-02T19:05:32+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001889s ]
+
+[ 2018-01-02T19:05:33+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003100s ]
+
+[ 2018-01-02T19:06:06+08:00 ] ::1 /hzaucomm/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001655s ]
+
+[ 2018-01-02T19:06:09+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001573s ]
+
+[ 2018-01-02T19:06:10+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003195s ]
+
+[ 2018-01-02T19:06:48+08:00 ] ::1 /hzaucomm/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002478s ]
+
+[ 2018-01-02T19:06:50+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001740s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005652s ]
+
+[ 2018-01-02T19:08:16+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+
+[ 2018-01-02T19:08:18+08:00 ] ::1 //hzaucomm/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+
+[ 2018-01-02T19:08:18+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003380s ]
+
+[ 2018-01-02T19:09:34+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002167s ]
+
+[ 2018-01-02T19:09:35+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002561s ]
+
+[ 2018-01-02T19:09:35+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002747s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:10:28+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.2823560641432684
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004334s ]
+
+[ 2018-01-02T19:10:29+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.2823560641432684?0.26511421143453207
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001781s ]
+
+[ 2018-01-02T19:10:31+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.2823560641432684?0.26511421143453207?0.6988150660429627
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001670s ]
+
+[ 2018-01-02T19:10:38+08:00 ] ::1 /hzaucomm/index.php/Home/User/subPws
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001971s ]
+
+[ 2018-01-02T19:10:40+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002721s ]
+
+[ 2018-01-02T19:10:41+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002779s ]
+
+[ 2018-01-02T19:10:41+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006729s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:10:43+08:00 ] ::1 /hzaucomm/index.php/Home/User/loginout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001500s ]
+
+[ 2018-01-02T19:10:44+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002373s ]
+
+[ 2018-01-02T19:10:45+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003570s ]
+
+[ 2018-01-02T19:10:53+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001541s ]
+
+[ 2018-01-02T19:10:56+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003860s ]
+
+[ 2018-01-02T19:10:57+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002882s ]
+
+[ 2018-01-02T19:16:41+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002069s ]
+
+[ 2018-01-02T19:16:43+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002614s ]
+
+[ 2018-01-02T19:16:44+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000190s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002234s ]
+
+[ 2018-01-02T19:16:45+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005352s ]
+
+[ 2018-01-02T19:16:46+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001969s ]
+
+[ 2018-01-02T19:16:46+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000221s ]
+INFO: [ app_init ] --END-- [ RunTime:0.034270s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:17:28+08:00 ] ::1 /hzaucomm/index.php/Home/User/subStudentMes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000342s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003491s ]
+
+[ 2018-01-02T19:17:30+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002517s ]
+
+[ 2018-01-02T19:17:31+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002977s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:17:31+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000498s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006209s ]
+
+[ 2018-01-02T19:17:45+08:00 ] ::1 /hzaucomm/index.php/Home/User/loginout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001960s ]
+
+[ 2018-01-02T19:17:45+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002639s ]
+
+[ 2018-01-02T19:17:46+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002605s ]
+
+[ 2018-01-02T19:18:01+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7839364180529967
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002532s ]
+
+[ 2018-01-02T19:18:03+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7839364180529967?0.16795578943136924
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001504s ]
+
+[ 2018-01-02T19:18:09+08:00 ] ::1 /hzaucomm/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+
+[ 2018-01-02T19:18:12+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002933s ]
+
+[ 2018-01-02T19:18:31+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002031s ]
+
+[ 2018-01-02T19:18:34+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001578s ]
+
+[ 2018-01-02T19:18:34+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000184s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003734s ]
+
+[ 2018-01-02T19:18:53+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.5367084907562423
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001771s ]
+
+[ 2018-01-02T19:18:59+08:00 ] ::1 /hzaucomm/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001548s ]
+
+[ 2018-01-02T19:19:01+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001501s ]
+
+[ 2018-01-02T19:19:02+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002034s ]
+
+[ 2018-01-02T19:19:28+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.11799514375526687
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000212s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002144s ]
+
+[ 2018-01-02T19:19:29+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.11799514375526687?0.27253341623005356
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000227s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002619s ]
+
+[ 2018-01-02T19:19:35+08:00 ] ::1 /hzaucomm/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002369s ]
+
+[ 2018-01-02T19:19:37+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001511s ]
+
+[ 2018-01-02T19:19:38+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000173s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006014s ]
+
+[ 2018-01-02T19:19:58+08:00 ] ::1 /hzaucomm/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001801s ]
+
+[ 2018-01-02T19:20:00+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002541s ]
+
+[ 2018-01-02T19:20:09+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009681s ]
+
+[ 2018-01-02T19:20:11+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002016s ]
+
+[ 2018-01-02T19:20:12+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002892s ]
+
+[ 2018-01-02T19:20:14+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002632s ]
+
+[ 2018-01-02T19:20:15+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000639s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008531s ]
+
+[ 2018-01-02T19:20:15+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011027s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:20:25+08:00 ] ::1 /hzaucomm/index.php/Home/User/subStudentMes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+
+[ 2018-01-02T19:20:27+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+
+[ 2018-01-02T19:20:27+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003324s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:20:27+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004549s ]
+
+[ 2018-01-02T19:20:43+08:00 ] ::1 /hzaucomm/index.php/Home/User/subStudentMes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001454s ]
+
+[ 2018-01-02T19:20:45+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001695s ]
+
+[ 2018-01-02T19:20:45+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000529s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006346s ]
+
+[ 2018-01-02T19:20:45+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002517s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:20:47+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000298s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001902s ]
+
+[ 2018-01-02T19:20:47+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003130s ]
+
+[ 2018-01-02T19:20:48+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004488s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:20:49+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002752s ]
+
+[ 2018-01-02T19:20:49+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002594s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:20:49+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002662s ]
+
+[ 2018-01-02T19:20:50+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001843s ]
+
+[ 2018-01-02T19:20:51+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000576s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005006s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:20:51+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002474s ]
+
+[ 2018-01-02T19:22:43+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004217s ]
+
+[ 2018-01-02T19:22:43+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000709s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005501s ]
+
+[ 2018-01-02T19:22:43+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004144s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:22:47+08:00 ] ::1 /hzaucomm/index.php/Home/course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004377s ]
+
+[ 2018-01-02T19:22:47+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002677s ]
+
+[ 2018-01-02T19:22:49+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000288s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003861s ]
+
+[ 2018-01-02T19:22:49+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002311s ]
+
+[ 2018-01-02T19:22:49+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001980s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:22:51+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003071s ]
+
+[ 2018-01-02T19:22:51+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003665s ]
+
+[ 2018-01-02T19:22:51+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000193s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002767s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:22:53+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002522s ]
+
+[ 2018-01-02T19:22:53+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000265s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003031s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:22:53+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002637s ]
+
+[ 2018-01-02T19:24:39+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002648s ]
+
+[ 2018-01-02T19:24:40+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004041s ]
+
+[ 2018-01-02T19:24:40+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000188s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003055s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:24:41+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001560s ]
+
+[ 2018-01-02T19:24:42+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002950s ]
+
+[ 2018-01-02T19:24:42+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002625s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:24:43+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001817s ]
+
+[ 2018-01-02T19:24:43+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.007254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022158s ]
+
+[ 2018-01-02T19:24:43+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002694s ]
+ERR: 非法操作:index
+
+[ 2018-01-02T19:24:50+08:00 ] ::1 /hzaucomm/index.php/Home/User/subStudentMes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001434s ]
+
+[ 2018-01-02T19:24:51+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002465s ]
+
+[ 2018-01-02T19:24:52+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002654s ]
+
+[ 2018-01-02T19:25:04+08:00 ] ::1 /hzaucomm/index.php/Home/User/subStudentMes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002488s ]
+
+[ 2018-01-02T19:25:05+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001519s ]
+
+[ 2018-01-02T19:25:06+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005205s ]
+
+[ 2018-01-02T19:26:38+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.8354848106887727
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000270s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002857s ]
+
+[ 2018-01-02T19:26:39+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.8354848106887727?0.5451759664092864
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002028s ]
+
+[ 2018-01-02T19:26:44+08:00 ] ::1 /hzaucomm/index.php/Home/User/subPws
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001497s ]
+
+[ 2018-01-02T19:26:44+08:00 ] ::1 /hzaucomm/index.php/Home/User/loginout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002050s ]
+
+[ 2018-01-02T19:26:45+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003804s ]
+
+[ 2018-01-02T19:26:45+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004019s ]
+
+[ 2018-01-02T19:26:56+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002397s ]
+
+[ 2018-01-02T19:26:58+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001594s ]
+
+[ 2018-01-02T19:26:58+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004673s ]
+
+[ 2018-01-02T19:27:11+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001927s ]
+
+[ 2018-01-02T19:27:12+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002958s ]
+
+[ 2018-01-02T19:27:13+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002178s ]
+
+[ 2018-01-02T19:27:16+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002459s ]
+
+[ 2018-01-02T19:27:16+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002879s ]
+
+[ 2018-01-02T19:27:19+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001670s ]
+
+[ 2018-01-02T19:27:19+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002637s ]
+
+[ 2018-01-02T19:27:20+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002242s ]
+
+[ 2018-01-02T19:27:20+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002269s ]
+
+[ 2018-01-02T19:27:21+08:00 ] ::1 /hzaucomm/index.php/Home/User/application
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+
+[ 2018-01-02T19:27:21+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002355s ]
+
+[ 2018-01-02T19:27:24+08:00 ] ::1 /hzaucomm/index.php/Home/User/message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002313s ]
+
+[ 2018-01-02T19:27:24+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003297s ]
+
+[ 2018-01-02T19:27:25+08:00 ] ::1 /hzaucomm/index.php/Home/User/theme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004754s ]
+
+[ 2018-01-02T19:27:25+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010813s ]
+
+[ 2018-01-02T19:38:33+08:00 ] ::1 /hzaucomm/index.php/Home/index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002467s ]
+
+[ 2018-01-02T19:38:34+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002669s ]
+
+[ 2018-01-02T19:38:38+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002701s ]
+
+[ 2018-01-02T19:38:38+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007265s ]
+
+[ 2018-01-02T19:38:41+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002890s ]
+
+[ 2018-01-02T19:38:41+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004547s ]
+
+[ 2018-01-02T19:38:43+08:00 ] ::1 /hzaucomm/index.php/Home/User/application
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003545s ]
+
+[ 2018-01-02T19:38:44+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000237s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002646s ]
+
+[ 2018-01-02T19:38:45+08:00 ] ::1 /hzaucomm/index.php/Home/User/message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005408s ]
+
+[ 2018-01-02T19:38:45+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002075s ]
+
+[ 2018-01-02T19:38:46+08:00 ] ::1 /hzaucomm/index.php/Home/User/theme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002796s ]
+
+[ 2018-01-02T19:38:46+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001955s ]
+
+[ 2018-01-02T19:38:48+08:00 ] ::1 /hzaucomm/index.php/Home/User/theme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003649s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007642s ]
+
+[ 2018-01-02T19:38:48+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009520s ]
+
+[ 2018-01-02T19:39:15+08:00 ] ::1 /hzaucomm/index.php/Home/User/theme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002132s ]
+
+[ 2018-01-02T19:39:16+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008603s ]
+
+[ 2018-01-02T19:39:17+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003426s ]
+
+[ 2018-01-02T19:39:18+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002789s ]
+
+[ 2018-01-02T19:39:19+08:00 ] ::1 /hzaucomm/index.php/Home/User/application
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002622s ]
+
+[ 2018-01-02T19:39:19+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005896s ]
+
+[ 2018-01-02T19:39:19+08:00 ] ::1 /hzaucomm/index.php/Home/User/message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002759s ]
+
+[ 2018-01-02T19:39:20+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005260s ]
+
+[ 2018-01-02T19:39:20+08:00 ] ::1 /hzaucomm/index.php/Home/User/message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+
+[ 2018-01-02T19:39:21+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002184s ]
+
+[ 2018-01-02T19:39:21+08:00 ] ::1 /hzaucomm/index.php/Home/User/theme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002103s ]
+
+[ 2018-01-02T19:39:22+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004952s ]
+
+[ 2018-01-02T19:39:23+08:00 ] ::1 /hzaucomm/index.php/Home/course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003957s ]
+
+[ 2018-01-02T19:39:23+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002685s ]
+
+[ 2018-01-02T19:39:24+08:00 ] ::1 /hzaucomm/index.php/Home/course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002132s ]
+
+[ 2018-01-02T19:39:25+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002384s ]
+
+[ 2018-01-02T19:39:25+08:00 ] ::1 /hzaucomm/index.php/Home/course/course1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+
+[ 2018-01-02T19:39:25+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+
+[ 2018-01-02T19:39:27+08:00 ] ::1 /hzaucomm/index.php/Home/course/course2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001895s ]
+
+[ 2018-01-02T19:39:27+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001946s ]
+
+[ 2018-01-02T19:39:28+08:00 ] ::1 /hzaucomm/index.php/Home/course/course3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002192s ]
+
+[ 2018-01-02T19:39:28+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002538s ]
+
+[ 2018-01-02T19:39:29+08:00 ] ::1 /hzaucomm/index.php/Home/course/course3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001547s ]
+
+[ 2018-01-02T19:39:29+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003162s ]
+
+[ 2018-01-02T19:41:52+08:00 ] ::1 /hzaucomm/index.php/Home/course/course3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001702s ]
+
+[ 2018-01-02T19:41:52+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002855s ]
+
+[ 2018-01-02T19:41:55+08:00 ] ::1 /hzaucomm/index.php/Home/index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002337s ]
+
+[ 2018-01-02T19:41:56+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002961s ]
+
+[ 2018-01-02T19:41:58+08:00 ] ::1 /hzaucomm/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+
+[ 2018-01-02T19:41:59+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001846s ]
+
+[ 2018-01-02T19:42:01+08:00 ] ::1 /hzaucomm/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000241s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002989s ]
+
+[ 2018-01-02T19:42:02+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002709s ]
+
+[ 2018-01-02T19:42:03+08:00 ] ::1 /hzaucomm/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003579s ]
+
+[ 2018-01-02T19:42:03+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002583s ]
+
+[ 2018-01-02T19:42:05+08:00 ] ::1 /hzaucomm/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001676s ]
+
+[ 2018-01-02T19:42:05+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001579s ]
+
+[ 2018-01-02T19:42:06+08:00 ] ::1 /hzaucomm/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000423s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002717s ]
+
+[ 2018-01-02T19:42:06+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+
+[ 2018-01-02T21:03:49+08:00 ] ::1 /hzaucomm/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000270s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002597s ]
+
+[ 2018-01-02T21:03:50+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000223s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004661s ]
+
+[ 2018-01-02T21:03:53+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002715s ]
+
+[ 2018-01-02T21:03:53+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002172s ]
+
+[ 2018-01-02T21:03:56+08:00 ] ::1 /hzaucomm/index.php/Home/User/subPws
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002139s ]
+
+[ 2018-01-02T21:03:58+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001911s ]
+
+[ 2018-01-02T21:03:58+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006458s ]
+
+[ 2018-01-02T21:04:00+08:00 ] ::1 /hzaucomm/index.php/Home/User/subStudentMes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+
+[ 2018-01-02T21:04:01+08:00 ] ::1 /hzaucomm/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001660s ]
+
+[ 2018-01-02T21:04:02+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002644s ]
+
+[ 2018-01-02T21:04:03+08:00 ] ::1 /hzaucomm/index.php/Home/User/loginout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002765s ]
+
+[ 2018-01-02T21:04:04+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002910s ]
+
+[ 2018-01-02T21:04:05+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005182s ]
+
+[ 2018-01-02T21:04:12+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002235s ]
+ERR: 1054:Unknown column '9c4d3240ef3953e9f55a07fa2b5c0f83' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_studentlog` WHERE ( identifier = 9c4d3240ef3953e9f55a07fa2b5c0f83 ) LIMIT 1  
+
+[ 2018-01-02T21:04:24+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000460s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004422s ]
+
+[ 2018-01-02T21:04:30+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000512s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007341s ]
+ERR: 1054:Unknown column '9c4d3240ef3953e9f55a07fa2b5c0f83' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_studentlog` WHERE ( identifier = 9c4d3240ef3953e9f55a07fa2b5c0f83 ) LIMIT 1  
+
+[ 2018-01-02T21:04:49+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005576s ]
+
+[ 2018-01-02T21:04:51+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002644s ]
+
+[ 2018-01-02T21:04:51+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002576s ]
+
+[ 2018-01-02T21:04:57+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004398s ]
+ERR: 1054:Unknown column '9c4d3240ef3953e9f55a07fa2b5c0f83' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_studentlog` WHERE ( identifier = 9c4d3240ef3953e9f55a07fa2b5c0f83 ) LIMIT 1  
+
+[ 2018-01-02T21:05:02+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001587s ]
+ERR: 1054:Unknown column '9c4d3240ef3953e9f55a07fa2b5c0f83' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_studentlog` WHERE ( identifier = 9c4d3240ef3953e9f55a07fa2b5c0f83 ) LIMIT 1  
+
+[ 2018-01-02T21:05:05+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003296s ]
+
+[ 2018-01-02T21:05:57+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002783s ]
+
+[ 2018-01-02T21:05:58+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003634s ]
+
+[ 2018-01-02T21:06:01+08:00 ] ::1 /hzaucomm/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002520s ]
+ERR: 1054:Unknown column '9c4d3240ef3953e9f55a07fa2b5c0f83' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_studentlog` WHERE ( identifier = 9c4d3240ef3953e9f55a07fa2b5c0f83 ) LIMIT 1  
+
+[ 2018-01-02T21:06:04+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002781s ]
+
+[ 2018-01-02T21:06:36+08:00 ] ::1 /hzaucomm/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003733s ]
+
+[ 2018-01-02T21:06:37+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000178s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006869s ]
+
+[ 2018-01-02T21:06:39+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.17404062431838574
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002117s ]
+
+[ 2018-01-02T21:07:05+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.17404062431838574
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001587s ]
+
+[ 2018-01-02T21:07:28+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003782s ]
+
+[ 2018-01-02T21:08:31+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001494s ]
+
+[ 2018-01-02T21:12:51+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002538s ]
+
+[ 2018-01-02T21:12:56+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002399s ]
+
+[ 2018-01-02T21:12:56+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+
+[ 2018-01-02T21:12:57+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001697s ]
+
+[ 2018-01-02T21:12:57+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000190s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002329s ]
+
+[ 2018-01-02T21:12:57+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+
+[ 2018-01-02T21:12:58+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001635s ]
+
+[ 2018-01-02T21:12:58+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001790s ]
+
+[ 2018-01-02T21:12:58+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002442s ]
+
+[ 2018-01-02T21:12:58+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002815s ]
+
+[ 2018-01-02T21:12:59+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002925s ]
+
+[ 2018-01-02T21:12:59+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000354s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004130s ]
+
+[ 2018-01-02T21:12:59+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002646s ]
+
+[ 2018-01-02T21:12:59+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001886s ]
+
+[ 2018-01-02T21:13:00+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000238s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001967s ]
+
+[ 2018-01-02T21:13:00+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001474s ]
+
+[ 2018-01-02T21:13:00+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001554s ]
+
+[ 2018-01-02T21:13:01+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379?0.43889286831837504
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001648s ]
+
+[ 2018-01-02T21:13:01+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379?0.43889286831837504?0.9249328687781647
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001493s ]
+
+[ 2018-01-02T21:13:01+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379?0.43889286831837504?0.9249328687781647?0.2877964818205626
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001570s ]
+
+[ 2018-01-02T21:13:01+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379?0.43889286831837504?0.9249328687781647?0.2877964818205626?0.6002976932099842
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001857s ]
+
+[ 2018-01-02T21:13:02+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379?0.43889286831837504?0.9249328687781647?0.2877964818205626?0.6002976932099842?0.18563741880537543
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001472s ]
+
+[ 2018-01-02T21:13:02+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379?0.43889286831837504?0.9249328687781647?0.2877964818205626?0.6002976932099842?0.18563741880537543?0.9393951109365087
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001819s ]
+
+[ 2018-01-02T21:13:02+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379?0.43889286831837504?0.9249328687781647?0.2877964818205626?0.6002976932099842?0.18563741880537543?0.9393951109365087?0.10063296077911044
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001525s ]
+
+[ 2018-01-02T21:13:02+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379?0.43889286831837504?0.9249328687781647?0.2877964818205626?0.6002976932099842?0.18563741880537543?0.9393951109365087?0.10063296077911044?0.5002408891884391
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001945s ]
+
+[ 2018-01-02T21:13:03+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379?0.43889286831837504?0.9249328687781647?0.2877964818205626?0.6002976932099842?0.18563741880537543?0.9393951109365087?0.10063296077911044?0.5002408891884391?0.9413078133574591
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001604s ]
+
+[ 2018-01-02T21:13:03+08:00 ] ::1 /hzaucomm/index.php/Home/Header/verifyImg?0.7794599969493977?0.28525735565766097?0.8278641938336613?0.6792807203674275?0.5332764577898209?0.15914860966106348?0.7821304033791262?0.890721081992183?0.5833216661310124?0.64970658274744?0.8406168579483212?0.5504888570331052?0.38373546258144176?0.0909103152036943?0.5867661801250648?0.4969798347310379?0.43889286831837504?0.9249328687781647?0.2877964818205626?0.6002976932099842?0.18563741880537543?0.9393951109365087?0.10063296077911044?0.5002408891884391?0.9413078133574591?0.703171321770847
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001621s ]
+

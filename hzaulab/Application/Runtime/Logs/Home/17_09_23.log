@@ -1,0 +1,12 @@
+[ 2017-09-23T15:38:49+08:00 ] ::1 /hzaulab/
+ERR: SQLSTATE[HY000] [1049] Unknown database 'zkydatabase'
+
+[ 2017-09-23T15:49:39+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-23T15:55:59+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-23T16:01:03+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+

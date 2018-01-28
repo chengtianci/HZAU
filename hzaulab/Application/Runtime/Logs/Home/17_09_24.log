@@ -1,0 +1,45 @@
+[ 2017-09-24T12:00:13+08:00 ] ::1 /hzaulab/index.php/Home/Field/OpenPot
+ERR: 非法操作:OpenPot
+
+[ 2017-09-24T12:00:16+08:00 ] ::1 /hzaulab/index.php/Home/Field/
+ERR: 非法操作:index
+
+[ 2017-09-24T12:00:29+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-24T12:01:27+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-24T12:01:28+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-24T12:01:28+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-24T12:01:28+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-24T12:01:28+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-24T12:01:28+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-24T12:02:01+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-24T12:02:40+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllPz方法不存在！
+
+[ 2017-09-24T12:02:41+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllPz方法不存在！
+
+[ 2017-09-24T12:02:41+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllPz方法不存在！
+
+[ 2017-09-24T12:04:03+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+
+[ 2017-09-24T12:04:08+08:00 ] ::1 /hzaulab/index.php/Home/Field/field_show2
+ERR: Think\Model:getAllWw方法不存在！
+

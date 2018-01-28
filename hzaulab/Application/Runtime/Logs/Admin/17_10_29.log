@@ -1,0 +1,13 @@
+[ 2017-10-29T12:58:10+08:00 ] ::1 /hzaulab/index.php/Admin/Equipment/
+ERR: 模板不存在:./Application/Admin/View/Equipment/index.html
+
+[ 2017-10-29T12:58:24+08:00 ] ::1 /hzaulab/index.php/Admin/Equipment/
+ERR: 模板不存在:./Application/Admin/View/Equipment/index.html
+
+[ 2017-10-29T13:25:33+08:00 ] ::1 /hzaulab/index.php/Admin/Equipment/doTheExport
+ERR: 非法操作:doTheExport
+
+[ 2017-10-29T13:40:43+08:00 ] ::1 /hzaulab/index.php/Admin/Plan/plan
+ERR: 1146:Table 'zkydatabase.tp_cgjh' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_cgjh`
+

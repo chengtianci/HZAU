@@ -1,0 +1,91 @@
+[ 2017-09-05T00:05:40+08:00 ] ::1 /hzaulab/index.php/Admin/Regulation/regulationShow/id/30
+ERR: 非法操作:regulationShow
+
+[ 2017-09-05T00:09:25+08:00 ] ::1 /hzaulab/index.php/Admin/Regulation/DownsSow/id/31
+ERR: 非法操作:DownsSow
+
+[ 2017-09-05T00:14:52+08:00 ] ::1 /hzaulab/index.php/Admin/Regulation/DownsSow/id/28
+ERR: 非法操作:DownsSow
+
+[ 2017-09-05T00:59:19+08:00 ] ::1 /hzaulab/index.php/Admin/Introduction/doAddNotice
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+SQL: SHOW COLUMNS FROM `tp_tz` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tp_tz` [ RunTime:0.0007s ]
+SQL: INSERT INTO `tp_tz` (`infotime`,`infoowner`,`infoname`,`infoct`) VALUES ('2017-09-05','Admin','12345','<p>请填写通知的名称，编辑时，请删除本行</p>') [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000967s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001148s ]
+
+[ 2017-09-05T01:00:16+08:00 ] ::1 /hzaulab/index.php/Admin/Introduction/doAddNotice
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+SQL: SHOW COLUMNS FROM `tp_tz` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tp_tz` [ RunTime:0.0006s ]
+SQL: INSERT INTO `tp_tz` (`infotime`,`infoowner`,`infoname`,`infoct`) VALUES ('2017-09-05','Admin','grhgrh ','<p>请填写通知的名称，编辑时，请删除本行</p>') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000914s ]
+
+[ 2017-09-05T01:00:20+08:00 ] ::1 /hzaulab/index.php/Admin/Introduction/doAddNotice
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+SQL: SHOW COLUMNS FROM `tp_tz` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `tp_tz` [ RunTime:0.0009s ]
+SQL: INSERT INTO `tp_tz` (`infotime`,`infoowner`,`infoname`,`infoct`) VALUES ('2017-09-05','Admin','fegegg','<p>请填写通知的名称，编辑时，请删除本行</p>') [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001154s ]
+
+[ 2017-09-05T01:00:22+08:00 ] ::1 /hzaulab/index.php/Admin/Introduction/doAddNotice
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `tp_tz` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `tp_tz` [ RunTime:0.0007s ]
+SQL: INSERT INTO `tp_tz` (`infotime`,`infoowner`,`infoname`,`infoct`) VALUES ('2017-09-05','Admin','gegggg','<p>请填写通知的名称，编辑时，请删除本行</p>') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000914s ]
+
+[ 2017-09-05T01:00:31+08:00 ] ::1 /hzaulab/index.php/Admin/Introduction/doAddNotice
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+SQL: SHOW COLUMNS FROM `tp_tz` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tp_tz` [ RunTime:0.0006s ]
+SQL: INSERT INTO `tp_tz` (`infotime`,`infoowner`,`infoname`,`infoct`) VALUES ('2017-09-05','Admin','fegg','<p>请填写通知的名称，编辑时，请删除本行</p>') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001115s ]
+
+[ 2017-09-05T01:29:26+08:00 ] ::1 /hzaulab/index.php/Admin/Regulation/regulationShow/id/26
+ERR: 非法操作:regulationShow
+
+[ 2017-09-05T10:28:45+08:00 ] ::1 /hzaulab/index.php/Admin/Field/field_show2
+ERR: 非法操作:field_show2
+
+[ 2017-09-05T16:59:33+08:00 ] ::1 /hzaulab/index.php/Admin/Field/doAgree/id/7
+ERR: 1364:Field 'jshj' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_log` (`yiid`,`kssj`,`username`) VALUES ('P','2017-08-23','Admin')
+
+[ 2017-09-05T20:33:19+08:00 ] ::1 /hzaulab/index.php/Admin/Laboratory/equipment_app_show
+ERR: 非法操作:equipment_app_show
+
+[ 2017-09-05T20:33:22+08:00 ] ::1 /hzaulab/index.php/Admin/Laboratory/equipment_app_show
+ERR: 非法操作:equipment_app_show
+
+[ 2017-09-05T20:41:30+08:00 ] ::1 /hzaulab/index.php/Admin/Field/doAgree/id/15
+ERR: 1054:Unknown column 'PZ' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_log` WHERE ( yiid = PZ-3 ) 
+
+[ 2017-09-05T20:59:17+08:00 ] ::1 /hzaulab/index.php/Admin/Field/doAgree/id/15
+ERR: 1292:Incorrect date value: '' for column 'jshj' at row 1
+ [ SQL语句 ] : INSERT INTO `tp_log` (`username`,`kssj`,`jshj`,`yiid`) VALUES ('Admin','2017-09-05','','PZ-3')
+
+[ 2017-09-05T22:21:07+08:00 ] ::1 /hzaulab/index.php/Admin/Field/doTheExport
+ERR: 非法操作:doTheExport
+
