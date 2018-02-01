@@ -926,31 +926,144 @@
                   </div>
                   <div class="Z136">
                     <div class="Z_up">
+                      <div class="color136l"></div>
+                    <div class="color136r"></div>
+
                       <table>
                       <tr>
-                        <td class="ex" id="D6-1-3-1"> <input type="checkbox" value="D6-1-3-1"  name="theB102"><br><b>1-1-1</b></td>
-                        <td class="ex" id="D6-1-3-2"> <input type="checkbox" value="D6-1-3-2"  name="theB102"><br><b>1-3-2</b></td>
-                        <td class="ex" id="D6-1-3-3"> <input type="checkbox" value="D6-1-3-3"  name="theB102"><br><b>1-3-3</b></td>
+                        <td class="ex" id="D6-1-3-1"> <input type="checkbox" value="D6-1-3-1"  name="theB102"><b>6-1-1</b></td>
+                        <td class="ex" id="D6-1-3-2"> <input type="checkbox" value="D6-1-3-2"  name="theB102"><b>6-2-1</b></td>
+                        <td class="ex" id="D6-1-3-3"> <input type="checkbox" value="D6-1-3-3"  name="theB102"><b>6-3-1</b></td>
+                        <td class="ex" id="D6-1-3-3"> <input type="checkbox" value="D6-1-3-3"  name="theB102"><b>6-4-1</b></td>
                       </tr>
                       <tr>
-                        <td class="ex" id="D6-1-2-1"> <input type="checkbox" value="D6-1-2-1"  name="theB102"><br><b>1-2-1</b></td>
-                        <td class="ex" id="D6-1-2-2"> <input type="checkbox" value="D6-1-2-2"  name="theB102"><br><b>1-2-2</b></td>
-                        <td class="ex" id="D6-1-2-3"> <input type="checkbox" value="D6-1-2-3"  name="theB102"><br><b>1-2-3</b></td>
+                        <td class="ex" id="D6-1-2-1"> <input type="checkbox" value="D6-1-2-1"  name="theB102"><b>6-1-2</b></td>
+                        <td class="ex" id="D6-1-2-2"> <input type="checkbox" value="D6-1-2-2"  name="theB102"><b>6-2-2</b></td>
+                        <td class="ex" id="D6-1-2-3"> <input type="checkbox" value="D6-1-2-3"  name="theB102"><b>6-3-2</b></td>
+                        <td class="ex" id="D6-1-2-3"> <input type="checkbox" value="D6-1-2-3"  name="theB102"><b>6-4-2</b></td>
                       </tr>
                       <tr>
-                        <td class="ex" id="D6-1-1-1"> <input type="checkbox" value="D6-1-1-1"  name="theB102"><br><b>1-1-1</b></td>
-                        <td class="ex" id="D6-1-1-2"> <input type="checkbox" value="D6-1-1-2"  name="theB102"><br><b>1-1-2</b></td>
-                        <td class="ex" id="D6-1-1-3"> <input type="checkbox" value="D6-1-1-3"  name="theB102"><br><b>1-1-3</b></td>
+                        <td class="ex" id="D6-1-1-1"> <input type="checkbox" value="D6-1-1-1"  name="theB102"><b>6-1-3</b></td>
+                        <td class="ex" id="D6-1-1-2"> <input type="checkbox" value="D6-1-1-2"  name="theB102"><b>6-2-3</b></td>
+                        <td class="ex" id="D6-1-1-3"> <input type="checkbox" value="D6-1-1-3"  name="theB102"><b>6-3-3</b></td>
+                        <td class="ex" id="D6-1-1-3"> <input type="checkbox" value="D6-1-1-3"  name="theB102"><b>6-4-3</b></td>
                       </tr>
                     </table>
                     </div>
+                    <div class="clearfix"></div>
                     <div class="Z_mid">
-                        
+                        <div class="Z_mid_le">
+                          <table>
+                            <tr>
+                              <td class="ex" id="D7-3-1"><input type="checkbox" value="D7-3-1" name="the136"><br><b>7-3-1</b></td>
+                              <td class="ex" id="D7-3-2"><input type="checkbox" value="D7-3-2" name="the136"><br><b>7-3-2</b></td>
+                              <td class="ex" id="D7-3-3"><input type="checkbox" value="D7-3-3" name="the136"><br><b>7-3-3</b></td>
+                            </tr>
+                            <tr>
+                              <td class="ex" id="D7-2-1"><input type="checkbox" value="D7-2-1" name="the136"><br><b>7-2-1</b></td>
+                              <td class="ex" id="D7-2-2"><input type="checkbox" value="D7-2-2" name="the136"><br><b>7-2-2</b></td>
+                              <td class="ex" id="D7-2-3"><input type="checkbox" value="D7-2-3" name="the136"><br><b>7-2-3</b></td>
+                            </tr>
+                            <tr>
+                              <td class="ex" id="D7-1-1"><input type="checkbox" value="D7-1-1" name="the136"><br><b>7-1-1</b></td>
+                              <td class="ex" id="D7-1-2"><input type="checkbox" value="D7-1-2" name="the136"><br><b>7-1-2</b></td>
+                              <td class="ex" id="D7-1-3"><input type="checkbox" value="D7-1-3" name="the136"><br><b>7-1-3</b></td>
+                            </tr>
+                          </table>
+                        </div>
+                        <div class="Z_mid_ri">
+                          <table>
+                            <tr>
+                              <td class="ex" id="D5-1-1"><input type="checkbox" value="D5-1-1" name="the136"><b>5-1-1</b></td>
+                              <td class="ex" id="D5-2-1"><input type="checkbox" value="D5-2-1" name="the136"><b>5-2-1</b></td>
+                              <td class="ex" id="D5-3-1"><input type="checkbox" value="D5-3-1" name="the136"><b>5-3-1</b></td>
+                            </tr>
+                            <tr>
+                              <td class="ex" id="D5-1-2"><input type="checkbox" value="D5-1-2" name="the136"><b>5-1-2</b></td>
+                              <td class="ex" id="D5-2-2"><input type="checkbox" value="D5-2-2" name="the136"><b>5-2-2</b></td>
+                              <td class="ex" id="D5-3-2"><input type="checkbox" value="D5-3-2" name="the136"><b>5-3-2</b></td>
+                            </tr>
+                            <tr>
+                              <td class="ex" id="D5-1-3"><input type="checkbox" value="D5-1-3" name="the136"><b>5-1-3</b></td>
+                              <td class="ex" id="D5-2-3"><input type="checkbox" value="D5-2-3" name="the136"><b>5-2-3</b></td>
+                              <td class="ex" id="D5-3-3"><input type="checkbox" value="D5-3-3" name="the136"><b>5-3-3</b></td>
+                            </tr>
+                          </table>
+                          <table>
+                            <tr>
+                              <td class="ex" id="D4-1-1"><input type="checkbox" value="D4-1-1" name="the136"><b>4-1-1</b></td>
+                              <td class="ex" id="D4-2-1"><input type="checkbox" value="D4-2-1" name="the136"><b>4-2-1</b></td>
+                              <td class="ex" id="D4-3-1"><input type="checkbox" value="D4-3-1" name="the136"><b>4-3-1</b></td>
+                            </tr>
+                            <tr>
+                              <td class="ex" id="D4-1-2"><input type="checkbox" value="D4-1-2" name="the136"><b>4-1-2</b></td>
+                              <td class="ex" id="D4-2-2"><input type="checkbox" value="D4-2-2" name="the136"><b>4-2-2</b></td>
+                              <td class="ex" id="D4-3-2"><input type="checkbox" value="D4-3-2" name="the136"><b>4-3-2</b></td>
+                            </tr>
+                            <tr>
+                              <td class="ex" id="D4-1-3"><input type="checkbox" value="D4-1-3" name="the136"><b>4-1-3</b></td>
+                              <td class="ex" id="D4-2-3"><input type="checkbox" value="D4-2-3" name="the136"><b>4-2-3</b></td>
+                              <td class="ex" id="D4-3-3"><input type="checkbox" value="D4-3-3" name="the136"><b>4-3-3</b></td>
+                            </tr>
+                          </table>
+                          <table>
+                            <tr>
+                              <td class="ex" id="D3-1-1"><input type="checkbox" value="D3-1-1" name="theB103"><b>3-1-1</b></td>
+                              <td class="ex" id="D3-2-1"><input type="checkbox" value="D3-2-1" name="theB103"><b>3-2-1</b></td>
+                              <td class="ex" id="D3-3-1"><input type="checkbox" value="D3-3-1" name="theB103"><b>3-3-1</b></td>
+                            </tr>
+                            <tr>
+                              <td class="ex" id="D3-1-2"><input type="checkbox" value="D3-1-2" name="theB103"><b>3-1-2</b></td>
+                              <td class="ex" id="D3-2-2"><input type="checkbox" value="D3-2-2" name="theB103"><b>3-2-2</b></td>
+                              <td class="ex" id="D3-3-2"><input type="checkbox" value="D3-3-2" name="theB103"><b>3-3-2</b></td>
+                            </tr>
+                            <tr>
+                              <td class="ex" id="D3-1-3"><input type="checkbox" value="D3-1-3" name="theB103"><b>3-1-3</b></td>
+                              <td class="ex" id="D3-2-3"><input type="checkbox" value="D3-2-3" name="theB103"><b>3-2-3</b></td>
+                              <td class="ex" id="D3-3-3"><input type="checkbox" value="D3-3-3" name="theB103"><b>3-3-3</b></td>
+                            </tr>
+                          </table>
+                          <table>
+                            <tr>
+                              <td class="ex" id="D2-1-1"><input type="checkbox" value="D2-1-1" name="theB103"><b>2-1-1</b></td>
+                              <td class="ex" id="D2-2-1"><input type="checkbox" value="D2-2-1" name="theB103"><b>2-2-1</b></td>
+                              <td class="ex" id="D2-3-1"><input type="checkbox" value="D2-3-1" name="theB103"><b>2-3-1</b></td>
+                              </tr>
+                            <tr>
+                              <td class="ex" id="D2-1-2"><input type="checkbox" value="D2-1-2" name="theB103"><b>2-1-2</b></td>
+                              <td class="ex" id="D2-2-2"><input type="checkbox" value="D2-2-2" name="theB103"><b>2-2-2</b></td>
+                              <td class="ex" id="D2-3-2"><input type="checkbox" value="D2-3-2" name="theB103"><b>2-3-2</b></td>
+                            </tr>
+                            <tr>
+                              <td class="ex" id="D2-3-1"><input type="checkbox" value="D2-3-1" name="theB103"><b>2-3-1</b></td>
+                              <td class="ex" id="D2-3-2"><input type="checkbox" value="D2-3-2" name="theB103"><b>2-3-2</b></td>
+                              <td class="ex" id="D2-3-3"><input type="checkbox" value="D2-3-3" name="theB103"><b>2-3-3</b></td>
+                            </tr>
+                          </table>
+                        </div>
                     </div>
-                    <div class="Z_dpwn">
-                      
+                    <div class="clearfix"></div>
+                    <div class="Z_down">
+                      <div class="door136">主楼136</div>
+                      <table>
+                        <tr>
+                          <td class="ex" id="D1-1-1"> <input type="checkbox" value="D1-1-1"  name="theB102"><b>1-1-1</b></td>
+                          <td class="ex" id="D1-2-1"> <input type="checkbox" value="D1-2-1"  name="theB102"><b>1-2-1</b></td>
+                          <td class="ex" id="D1-3-1"> <input type="checkbox" value="D1-3-1"  name="theB102"><b>1-3-1</b></td>
+                        </tr>
+                        <tr>
+                          <td class="ex" id="D1-1-2"> <input type="checkbox" value="D1-1-2"  name="theB102"><b>1-1-2</b></td>
+                          <td class="ex" id="D1-2-2"> <input type="checkbox" value="D1-2-2"  name="theB102"><b>1-2-2</b></td>
+                          <td class="ex" id="D1-3-2"> <input type="checkbox" value="D1-3-2"  name="theB102"><b>1-3-2</b></td>
+                        </tr>
+                        <tr>
+                          <td class="ex" id="D1-1-1"> <input type="checkbox" value="D1-1-3"  name="theB102"><b>1-1-3</b></td>
+                          <td class="ex" id="D1-2-2"> <input type="checkbox" value="D1-2-3"  name="theB102"><b>1-2-3</b></td>
+                          <td class="ex" id="D1-3-3"> <input type="checkbox" value="D1-3-3"  name="theB102"><b>1-3-3</b></td>
+                        </tr>
+                      </table>
                     </div>
-
+                    <div class="clearfix"></div>
                   </div>                
                   <select class="mutibox" name="theCaozuo" id="testSelectB103">
                     <option value="1" selected>锁定</option>
